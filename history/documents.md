@@ -1,13 +1,13 @@
 # 監視対象のページと文書
 
-最終確認：2026-10-28
+最終確認：2026-10-29
 
 ## ページ
 
 | ページ | 経路 | 最終更新（公式） | 状態 | 版数 | 最新 |
 |---|---|---|---|---|---|
 | [サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）](https://www.ipa.go.jp/security/scs/index.html) | トップページ | 2026年10月28日 | 掲載中 | 1 | [md](../documents/markdown/www.ipa.go.jp/security/scs/index.md) |
-| [要求事項・評価基準](https://www.ipa.go.jp/security/scs/requirements-criteria.html) | トップページ配下 | 2026年10月28日 | 掲載中 | 1 | [md](../documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md) |
+| [要求事項・評価基準](https://www.ipa.go.jp/security/scs/requirements-criteria.html) | トップページ配下 | 2026年10月29日 | 掲載中 | 2 | [md](../documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md) |
 | [制度規程・委員会](https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html) | トップページ配下 | 2026年10月15日 | 掲載中 | 1 | [md](../documents/markdown/www.ipa.go.jp/security/scs/regulation-advisory-committeess.md) |
 | [評価機関・技術検証事業者・研修事業者 新規申請事業者向け説明会](https://www.ipa.go.jp/security/scs/security-experts-organization/setsumeikai.html) | トップページ配下 | 2026年10月26日 | 掲載中 | 1 | [md](../documents/markdown/www.ipa.go.jp/security/scs/security-experts-organization/setsumeikai.md) |
 | [SCS評価制度の詳細情報](https://www.ipa.go.jp/security/scs/details.html) | トップページ配下 | 2026年10月28日 | 掲載中 | 1 | [md](../documents/markdown/www.ipa.go.jp/security/scs/details.md) |
@@ -30,10 +30,10 @@
 
 | 文書番号 | 文書 | 形式 | サイズ | 公式の更新日 | 初回取得 | 最終変更 | 版数 | 最新 |
 |---|---|---|---|---|---|---|---|---|
-| SCS-400 | [★3・★4 要求事項・評価基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx) | XLSX | 49 KB | 2026年10月28日 | 2026-10-28 | 2026-10-28 | 1 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx.md) |
-| SCS-410 | [★3・★4 自己評価等ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf) | PDF | 1,233 KB | 2026年10月28日 | 2026-10-28 | 2026-10-28 | 1 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf.md) |
-| SCS-410AP | [★3・★4 自己評価等ガイド 別紙_アセスメントシート](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx) | XLSX | 134 KB |  | 2026-10-28 | 2026-10-28 | 1 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx.md) |
-| SCS-420 | [★4 第三者評価ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf) | PDF | 1,164 KB | 2026年10月28日 | 2026-10-28 | 2026-10-28 | 1 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf.md) |
+| SCS-400 | [★3・★4 要求事項・評価基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx) | XLSX | 42 KB | 2026年10月29日 | 2026-10-28 | 2026-10-29 | 3 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx.md) |
+| SCS-410 | [★3・★4 自己評価等ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf) | PDF | 1,237 KB | 2026年10月29日 | 2026-10-28 | 2026-10-29 | 2 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf.md) |
+| SCS-410AP | [★3・★4 自己評価等ガイド 別紙_アセスメントシート](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx) | XLSX | 133 KB |  | 2026-10-28 | 2026-10-29 | 2 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx.md) |
+| SCS-420 | [★4 第三者評価ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf) | PDF | 1,168 KB | 2026年10月29日 | 2026-10-28 | 2026-10-29 | 2 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf.md) |
 | SCS-430 | [★4 技術検証ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-430-vuln-assess-guide-v1.0.pdf) | PDF | 738 KB | 2026年10月28日 | 2026-10-28 | 2026-10-28 | 1 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-430-vuln-assess-guide-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-430-vuln-assess-guide-v1.0.pdf.md) |
 | SCS-620 | [★3・★4 要求事項・評価基準 解説書](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-620-handbook-v1.0.pdf) | PDF | 1,987 KB | 2026年10月28日 | 2026-10-28 | 2026-10-28 | 1 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-620-handbook-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-620-handbook-v1.0.pdf.md) |
 |  | [変更箇所（2026年10月28日公開版と2026年3月27日公開版の差異）](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-criteria-comparison.pdf) | PDF | 1,316 KB |  | 2026-10-28 | 2026-10-28 | 1 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-criteria-comparison.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-criteria-comparison.pdf.md) |
@@ -101,7 +101,51 @@
 
 ## 過去の版（archive/）
 
-_（過去の版はまだありません）_
+<details><summary>★3・★4 要求事項・評価基準（掲載中）— 3版</summary>
+
+| 版 | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-10-29 | documents（最新） | 42 KB | +1 / -1 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx.md) | [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-400-criteria-v1.1.xlsx.diff) |
+| 2026-10-28 | archive | 49 KB | +85 / -14 | [原本](../archive/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx/2026-10-28_SCS-400-criteria-v1.1.xlsx) / [md](../archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx/2026-10-28_SCS-400-criteria-v1.1.xlsx.md) | [diff](diffs/2026-03-27/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-400-criteria-v1.1.xlsx.diff) |
+| 2026-03-27 | archive | 51 KB | — | [原本](../archive/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/20260327001-c.xlsx/2026-03-27_20260327001-c.xlsx) / [md](../archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/20260327001-c.xlsx/2026-03-27_20260327001-c.xlsx.md) | — |
+
+</details>
+
+<details><summary>★3・★4 自己評価等ガイド（掲載中）— 2版</summary>
+
+| 版 | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-10-29 | documents（最新） | 1,237 KB | +30 / -19 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf.md) | [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-410-self-assess-guide-v1.0.pdf.diff) |
+| 2026-10-28 | archive | 1,233 KB | — | [原本](../archive/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf/2026-10-28_SCS-410-self-assess-guide-v1.0.pdf) / [md](../archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf/2026-10-28_SCS-410-self-assess-guide-v1.0.pdf.md) | — |
+
+</details>
+
+<details><summary>★3・★4 自己評価等ガイド 別紙_アセスメントシート（掲載中）— 2版</summary>
+
+| 版 | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-10-29 | documents（最新） | 133 KB | +5 / -5 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx.md) | [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-410AP-self-assess-sheet-v1.0.xlsx.diff) |
+| 2026-10-28 | archive | 134 KB | — | [原本](../archive/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx/2026-10-28_SCS-410AP-self-assess-sheet-v1.0.xlsx) / [md](../archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx/2026-10-28_SCS-410AP-self-assess-sheet-v1.0.xlsx.md) | — |
+
+</details>
+
+<details><summary>★4 第三者評価ガイド（掲載中）— 2版</summary>
+
+| 版 | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-10-29 | documents（最新） | 1,168 KB | +15 / -10 | [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf.md) | [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-420-3rdparty-assess-guide-v1.0.pdf.diff) |
+| 2026-10-28 | archive | 1,164 KB | — | [原本](../archive/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf/2026-10-28_SCS-420-3rdparty-assess-guide-v1.0.pdf) / [md](../archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf/2026-10-28_SCS-420-3rdparty-assess-guide-v1.0.pdf.md) | — |
+
+</details>
+
+<details><summary>要求事項・評価基準（掲載中）— 2版</summary>
+
+| 版 | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-10-29 | documents（最新） |  | +10 / -6 | [md](../documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md) | [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__requirements-criteria.html.diff) |
+| 2026-10-28 | archive |  | — | [md](../archive/markdown/www.ipa.go.jp/security/scs/requirements-criteria.html/2026-10-28_requirements-criteria.md) | — |
+
+</details>
 
 ## トップページからリンクされている外部サイト（監視対象外）
 

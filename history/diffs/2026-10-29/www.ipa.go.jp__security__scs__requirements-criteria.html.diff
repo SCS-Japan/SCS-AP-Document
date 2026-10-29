@@ -1,0 +1,40 @@
+--- archive/markdown/www.ipa.go.jp/security/scs/requirements-criteria.html/2026-10-28_requirements-criteria.md
++++ documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md
+@@ -3,3 +3,3 @@
+ title: "要求事項・評価基準"
+-dates: ["公開日：2026年4月21日", "最終更新日：2026年10月28日"]
++dates: ["公開日：2026年4月21日", "最終更新日：2026年10月29日"]
+ ---
+@@ -9,3 +9,3 @@
+ 
+-最終更新日：2026年10月28日
++最終更新日：2026年10月29日
+ 
+@@ -24,5 +24,5 @@
+ - SCS-400
+-- [★3・★4 要求事項・評価基準(Excel:50 KB)](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx)
++- [★3・★4 要求事項・評価基準(Excel:42 KB)](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx)
+ 
+-更新日：2026年10月28日
++更新日：2026年10月29日
+ 
+@@ -40,3 +40,3 @@
+ - [★3・★4 自己評価等ガイド(PDF:1.3 MB)](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf)
+-- 更新日：2026年10月28日
++- 更新日：2026年10月29日
+ 
+@@ -49,2 +49,3 @@
+ - [★3・★4 自己評価等ガイド 別紙\_アセスメントシート(Excel:134 KB)](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx)
++- 更新日：2026年10月29日
+ 
+@@ -54,3 +55,3 @@
+ - [★4 第三者評価ガイド(PDF:1.2 MB)](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf)
+-- 更新日：2026年10月28日
++- 更新日：2026年10月29日
+ 
+@@ -84,2 +85,5 @@
+ 
++- 2026年10月29日
++
++  ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、編集ミスによる軽微な修正を行いました。なお、バージョンの変更はありません。
+ - 2026年10月28日

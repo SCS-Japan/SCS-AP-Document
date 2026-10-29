@@ -1,0 +1,7 @@
+--- archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx/2026-10-28_SCS-400-criteria-v1.1.xlsx.md
++++ documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx.md
+@@ -1888,3 +1888,3 @@
+   ‒サポートが終了した場合に削除されるか、又はインターネットとの全てのトラフィックを遮断することで適用範囲から削除される。
+-  ‒やむを得ず、サポートが終了したものを利用する場合、脆弱性悪用のリスクを軽減する対策を実施している。
++  ‒やむを得ず、サポートが終了したものを利用する場合、脆弱性悪用のリスクを低減する対策を実施している。
+   ‒可能であれば、自動アップデートが有効化されている。
