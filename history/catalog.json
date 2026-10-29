@@ -186,21 +186,33 @@
       "doc_no": "SCS-400",
       "first_seen": "2026-10-28",
       "official_updated": "2026年10月28日",
+      "removed": "2026-10-29",
       "pages": [
         "https://www.ipa.go.jp/security/scs/requirements-criteria.html"
       ],
       "section": "要求事項・評価基準",
       "status": "active",
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/20260327001-c.xlsx",  
       "title": "★3・★4 要求事項・評価基準",
       "versions": [
         {
-          "added": 0,
+          "archived": true,
+          "date": "2026-03-27",
+          "markdown": "archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/20260327001-c.xlsx/2026-03-27_20260327001-c.xlsx.md",
+          "original": "archive/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/20260327001-c.xlsx/2026-03-27_20260327001-c.xlsx",
+          "sha256": "d4c27aa4bfed5521a98ff9ce8c042743e4204e4b8310ceb3df0c54eabfdc8dd1",
+          "size": 52316,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/20260327001-c.xlsx",
+          "version": "2026-03-27"
+        },     
+        {
+          "added": 85,
           "date": "2026-10-28",
-          "diff": null,
+          "diff": "history/diffs/2026-03-27/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-400-criteria-v1.1.xlsx.diff",
           "last_modified": "Wed, 28 Oct 2026 06:01:40 GMT",
           "markdown": "documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx.md",
           "original": "documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx",
-          "removed": 0,
+          "removed": 14,
           "sha256": "8b4fae3af21cc42bb6b69007ec4d0395c044c943024bf5a41e779b80ea3da320",
           "size": 50536,
           "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx",
@@ -1815,7 +1827,19 @@
       "type": "文書追加",
       "url": "https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa-03.pdf",
       "version": "2026-10-28"
-    }
+    },
+    {
+  "date": "2026-03-27",
+  "type": "文書差し替え",
+  "title": "★3・★4 要求事項・評価基準（20260327001-c.xlsx → SCS-400-criteria-v1.1.xlsx）",
+  "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx",
+  "version": "2026-10-28",
+  "original": "documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx",
+  "markdown": "documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx.md",
+  "diff": "history/diffs/2026-03-27/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-400-criteria-v1.1.xlsx.diff",
+  "added": 85,
+  "removed": 14
+  }
   ],
   "pages": {
     "https://www.ipa.go.jp/choutatsu/koubo/2026/koubo20260626.html": {
