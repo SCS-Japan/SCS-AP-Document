@@ -57,9 +57,70 @@
 
 ## 検知した変更
 
+### 2026-10-30
+
+- **ページ更新** [要求事項・評価基準 [2026年10月29日] ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、軽微な修正を行いました。なお、バージョンの変更はありません。](https://www.ipa.go.jp/security/scs/requirements-criteria.html)（+4 / -2） — [md](../documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md) / [diff](diffs/2026-10-30/www.ipa.go.jp__security__scs__requirements-criteria.html.diff)
+
+  <details><summary>差分を表示</summary>
+
+  ````diff
+  --- archive/markdown/www.ipa.go.jp/security/scs/requirements-criteria.html/2026-10-29_requirements-criteria.md
+  +++ documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md
+  @@ -24,3 +24,3 @@
+   - SCS-400
+  -- [★3・★4 要求事項・評価基準(Excel:42 KB)](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx)
+  +- [★3・★4 要求事項・評価基準（Ver.1.1:2026年10月28日）(Excel:42 KB)](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx)
+   
+  @@ -31,2 +31,4 @@
+   本書は、登録希望組織が登録を受けるためのセキュリティ要件である「要求事項」及び評価に際して要求事項を満たしていると判断する基準である「評価基準」を定める。
+  +
+  +（注釈）2026年10月28日公開の★3・★4 要求事項・評価基準では、評価基準No.4-4-4-1の内容に誤字があったため、修正しました。（変更箇所：評価基準No.4-4-4-1、変更内容：「軽減」を「低減」に修正）
+   
+  @@ -87,3 +89,3 @@
+   
+  -  ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、編集ミスによる軽微な修正を行いました。なお、バージョンの変更はありません。
+  +  ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、軽微な修正を行いました。なお、バージョンの変更はありません。
+   - 2026年10月28日
+  ````
+
+  </details>
+
+- **ページ更新** [よくある質問 [2026年10月30日] よくある質問を一部修正しました。](https://www.ipa.go.jp/security/scs/faq.html)（+6 / -3） — [md](../documents/markdown/www.ipa.go.jp/security/scs/faq.md) / [diff](diffs/2026-10-30/www.ipa.go.jp__security__scs__faq.html.diff)
+
+  <details><summary>差分を表示</summary>
+
+  ````diff
+  --- archive/markdown/www.ipa.go.jp/security/scs/faq.html/2026-10-28_faq.md
+  +++ documents/markdown/www.ipa.go.jp/security/scs/faq.md
+  @@ -3,3 +3,3 @@
+   title: "よくある質問"
+  -dates: ["公開日：2026年4月21日", "最終更新日：2026年10月28日"]
+  +dates: ["公開日：2026年4月21日", "最終更新日：2026年10月30日"]
+   ---
+  @@ -9,3 +9,3 @@
+   
+  -最終更新日：2026年10月28日
+  +最終更新日：2026年10月30日
+   
+  @@ -81,3 +81,3 @@
+   
+  -★によって想定される脅威について、制度構築方針にて★3は「一般的なサイバー攻撃」と★4は「未知の攻撃も含めた高度なサイバー攻撃」等の違いが示されています。詳細は制度構築方針をご確認ください。
+  +★によって想定される脅威について、★3は「広く認知された脆弱性等を悪用する一般的なサイバー攻撃」、★4は「供給停止等によりサプライチェーンに大きな影響をもたらす企業への攻撃や機密情報等、情報漏えいにより大きな影響をもたらす資産への攻撃」を想定しています。詳細は制度構築方針をご確認ください。
+   
+  @@ -252,2 +252,5 @@
+   
+  +- 2026年10月30日
+  +
+  +  よくある質問を一部修正しました。
+   - 2026年10月28日
+  ````
+
+  </details>
+
+
 ### 2026-10-29
 
-- **ページ更新** [要求事項・評価基準 [2026年10月29日] ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、編集ミスによる軽微な修正を行いました。なお、バージョンの変更はありません。](https://www.ipa.go.jp/security/scs/requirements-criteria.html)（+10 / -6） — [md](../documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__requirements-criteria.html.diff)
+- **ページ更新** [要求事項・評価基準 [2026年10月29日] ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、編集ミスによる軽微な修正を行いました。なお、バージョンの変更はありません。](https://www.ipa.go.jp/security/scs/requirements-criteria.html)（+10 / -6） — [md](../archive/markdown/www.ipa.go.jp/security/scs/requirements-criteria.html/2026-10-29_requirements-criteria.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__requirements-criteria.html.diff)
 
   <details><summary>差分を表示</summary>
 
@@ -287,7 +348,7 @@
 - **ページ追加** [SCS評価制度の詳細情報](https://www.ipa.go.jp/security/scs/details.html)（トップページ配下から追加） — [md](../documents/markdown/www.ipa.go.jp/security/scs/details.md)
 - **ページ追加** [評価機関・技術検証事業者・研修事業者・SCSセキュリティ専門家](https://www.ipa.go.jp/security/scs/security-experts-organization/index.html)（トップページ配下から追加） — [md](../documents/markdown/www.ipa.go.jp/security/scs/security-experts-organization/index.md)
 - **ページ追加** [関連制度・施策](https://www.ipa.go.jp/security/scs/related-regulations-policies.html)（トップページ配下から追加） — [md](../documents/markdown/www.ipa.go.jp/security/scs/related-regulations-policies.md)
-- **ページ追加** [よくある質問](https://www.ipa.go.jp/security/scs/faq.html)（トップページ配下から追加） — [md](../documents/markdown/www.ipa.go.jp/security/scs/faq.md)
+- **ページ追加** [よくある質問](https://www.ipa.go.jp/security/scs/faq.html)（トップページ配下から追加） — [md](../archive/markdown/www.ipa.go.jp/security/scs/faq.html/2026-10-28_faq.md)
 - **ページ追加** [指定申請について（評価機関・技術検証事業者・研修事業者向け）](https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html)（トップページ配下から追加） — [md](../documents/markdown/www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.md)
 - **ページ追加** [サイバーセキュリティお助け隊サービス（新類型）実証事業](https://www.ipa.go.jp/security/sme/otasuke-scs.html)（トップページのリンクから追加） — [md](../documents/markdown/www.ipa.go.jp/security/sme/otasuke-scs.md)
 - **ページ追加** [「サイバーセキュリティお助け隊サービス（新類型）実証事業」に係る企画競争](https://www.ipa.go.jp/choutatsu/koubo/2026/koubo20260626.html)（トップページのリンクから追加） — [md](../documents/markdown/www.ipa.go.jp/choutatsu/koubo/2026/koubo20260626.md)

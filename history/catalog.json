@@ -192,7 +192,7 @@
       "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/20260327001-c.xlsx",
       "section": "要求事項・評価基準",
       "status": "active",
-      "title": "★3・★4 要求事項・評価基準",
+      "title": "★3・★4 要求事項・評価基準（Ver.1.1:2026年10月28日）",
       "versions": [
         {
           "archived": true,
@@ -1214,10 +1214,34 @@
   },
   "events": [
     {
+      "added": 4,
+      "date": "2026-10-30",
+      "diff": "history/diffs/2026-10-30/www.ipa.go.jp__security__scs__requirements-criteria.html.diff",
+      "markdown": "documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md",
+      "original": null,
+      "removed": 2,
+      "title": "要求事項・評価基準 [2026年10月29日] ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、軽微な修正を行いました。なお、バージョンの変更はありません。",
+      "type": "ページ更新",
+      "url": "https://www.ipa.go.jp/security/scs/requirements-criteria.html",
+      "version": "2026-10-30"
+    },
+    {
+      "added": 6,
+      "date": "2026-10-30",
+      "diff": "history/diffs/2026-10-30/www.ipa.go.jp__security__scs__faq.html.diff",
+      "markdown": "documents/markdown/www.ipa.go.jp/security/scs/faq.md",
+      "original": null,
+      "removed": 3,
+      "title": "よくある質問 [2026年10月30日] よくある質問を一部修正しました。",
+      "type": "ページ更新",
+      "url": "https://www.ipa.go.jp/security/scs/faq.html",
+      "version": "2026-10-30"
+    },
+    {
       "added": 10,
       "date": "2026-10-29",
       "diff": "history/diffs/2026-10-29/www.ipa.go.jp__security__scs__requirements-criteria.html.diff",
-      "markdown": "documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md",
+      "markdown": "archive/markdown/www.ipa.go.jp/security/scs/requirements-criteria.html/2026-10-29_requirements-criteria.md",
       "original": null,
       "removed": 6,
       "title": "要求事項・評価基準 [2026年10月29日] ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、編集ミスによる軽微な修正を行いました。なお、バージョンの変更はありません。",
@@ -1367,7 +1391,7 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/markdown/www.ipa.go.jp/security/scs/faq.md",
+      "markdown": "archive/markdown/www.ipa.go.jp/security/scs/faq.html/2026-10-28_faq.md",
       "note": "トップページ配下から追加",
       "original": null,
       "removed": 0,
@@ -2057,6 +2081,10 @@
     "https://www.ipa.go.jp/security/scs/faq.html": {
       "changelog": [
         {
+          "date": "2026年10月30日",
+          "text": "よくある質問を一部修正しました。"
+        },
+        {
           "date": "2026年10月28日",
           "text": "よくある質問を更新、追加しました。"
         },
@@ -2075,25 +2103,36 @@
       ],
       "dates": [
         "公開日：2026年4月21日",
-        "最終更新日：2026年10月28日"
+        "最終更新日：2026年10月30日"
       ],
       "first_seen": "2026-10-28",
       "order": 7,
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
-      "sha256": "2642d6ac6fcc2162d84d702156bd94c2ddb4f39eee7c497d9c0e27d1cb4e11eb",
+      "sha256": "c79eccc0dd490515964d364fb0ac72d702c1e2030b3dfef484ff5e15567a0ca3",
       "status": "active",
       "title": "よくある質問",
       "versions": [
         {
           "added": 0,
+          "archived": true,
           "date": "2026-10-28",
           "diff": null,
-          "markdown": "documents/markdown/www.ipa.go.jp/security/scs/faq.md",
+          "markdown": "archive/markdown/www.ipa.go.jp/security/scs/faq.html/2026-10-28_faq.md",
           "removed": 0,
           "sha256": "2642d6ac6fcc2162d84d702156bd94c2ddb4f39eee7c497d9c0e27d1cb4e11eb",
           "url": "https://www.ipa.go.jp/security/scs/faq.html",
           "version": "2026-10-28"
+        },
+        {
+          "added": 6,
+          "date": "2026-10-30",
+          "diff": "history/diffs/2026-10-30/www.ipa.go.jp__security__scs__faq.html.diff",
+          "markdown": "documents/markdown/www.ipa.go.jp/security/scs/faq.md",
+          "removed": 3,
+          "sha256": "c79eccc0dd490515964d364fb0ac72d702c1e2030b3dfef484ff5e15567a0ca3",
+          "url": "https://www.ipa.go.jp/security/scs/faq.html",
+          "version": "2026-10-30"
         }
       ],
       "via": "トップページ配下"
@@ -2271,7 +2310,7 @@
       "changelog": [
         {
           "date": "2026年10月29日",
-          "text": "★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、編集ミスによる軽微な修正を行いました。なお、バージョンの変更はありません。"
+          "text": "★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、軽微な修正を行いました。なお、バージョンの変更はありません。"
         },
         {
           "date": "2026年10月28日",
@@ -2290,7 +2329,7 @@
       "order": 1,
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
-      "sha256": "cd8c5fc1dac012c075b7da8839848bc3508cc1598b2d32b2e56a4d9ad7fbb8d8",
+      "sha256": "091767b4974dffc3a9c5e23f091e674bfc3ae1f3378db1b44f1b5fc2539e0c10",
       "status": "active",
       "title": "要求事項・評価基準",
       "versions": [
@@ -2307,13 +2346,24 @@
         },
         {
           "added": 10,
+          "archived": true,
           "date": "2026-10-29",
           "diff": "history/diffs/2026-10-29/www.ipa.go.jp__security__scs__requirements-criteria.html.diff",
-          "markdown": "documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md",
+          "markdown": "archive/markdown/www.ipa.go.jp/security/scs/requirements-criteria.html/2026-10-29_requirements-criteria.md",
           "removed": 6,
           "sha256": "cd8c5fc1dac012c075b7da8839848bc3508cc1598b2d32b2e56a4d9ad7fbb8d8",
           "url": "https://www.ipa.go.jp/security/scs/requirements-criteria.html",
           "version": "2026-10-29"
+        },
+        {
+          "added": 4,
+          "date": "2026-10-30",
+          "diff": "history/diffs/2026-10-30/www.ipa.go.jp__security__scs__requirements-criteria.html.diff",
+          "markdown": "documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md",
+          "removed": 2,
+          "sha256": "091767b4974dffc3a9c5e23f091e674bfc3ae1f3378db1b44f1b5fc2539e0c10",
+          "url": "https://www.ipa.go.jp/security/scs/requirements-criteria.html",
+          "version": "2026-10-30"
         }
       ],
       "via": "トップページ配下"
