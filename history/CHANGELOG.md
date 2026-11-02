@@ -1,7 +1,7 @@
 # 更新履歴
 
 アーカイブが検知した変更です（新しい順）。「差分を表示」を開くと前の版からの変更点（`-` 削除 / `+` 追加）が見られます。
-監視対象のページ・文書と過去の版は [documents.md](documents.md)、差分ファイルは [diffs/](diffs/) にあります。
+取得対象のページ・文書と過去の版は [documents.md](documents.md)、差分ファイルは [diffs/](diffs/) にあります。
 
 ## 公式サイトのお知らせ（最新）
 
@@ -57,9 +57,73 @@
 
 ## 検知した変更
 
+### 2026-11-02
+
+- **ページ更新** [制度規程・委員会 [2026年11月2日] 研修実施基準を一部修正し、再公開しました。](https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html)（+7 / -7） — [md](../documents/scs/regulation-advisory-committeess.md) / [diff](diffs/2026-11-02/www.ipa.go.jp__security__scs__regulation-advisory-committeess.html.diff)
+
+  <details><summary>差分を表示</summary>
+
+  ````diff
+  --- archive/scs/2026-10-28_regulation-advisory-committeess.md
+  +++ documents/scs/regulation-advisory-committeess.md
+  @@ -3,3 +3,3 @@
+   title: "制度規程・委員会"
+  -dates: ["公開日：2026年4月21日", "最終更新日：2026年10月15日"]
+  +dates: ["公開日：2026年4月21日", "最終更新日：2026年11月2日"]
+   ---
+  @@ -9,3 +9,3 @@
+   
+  -最終更新日：2026年10月15日
+  +最終更新日：2026年11月2日
+   
+  @@ -123,4 +123,4 @@
+   - SCS-330B
+  -- [研修実施基準(PDF:474 KB)](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf)
+  -- 更新日：2026年9月18日
+  +- [研修実施基準(PDF:419 KB)](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf)
+  +- 更新日：2026年11月2日
+   
+  @@ -253,2 +253,5 @@
+   
+  +- 2026年11月2日
+  +
+  +  研修実施基準を一部修正し、再公開しました。
+   - 2026年10月15日
+  @@ -285,4 +288 @@
+     第1回運営審議委員会の配付資料を公開しました。
+  -- 2026年4月21日
+  -
+  -  新規公開しました。
+  ````
+
+  </details>
+
+- **文書更新** [研修実施基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf)（+3 / -2） — [原本](../documents/scs/regulation-advisory-committeess/SCS-330B_kenshuu-jissi-kijyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-330B_kenshuu-jissi-kijyun.pdf.md) / [diff](diffs/2026-11-02/www.ipa.go.jp__security__scs__rcu1hd0000007af3-att__SCS-330B_kenshuu-jissi-kijyun.pdf.diff)
+
+  <details><summary>差分を表示</summary>
+
+  ````diff
+  --- archive/scs/regulation-advisory-committeess/2026-10-28_SCS-330B_kenshuu-jissi-kijyun.pdf.md
+  +++ documents/scs/regulation-advisory-committeess/SCS-330B_kenshuu-jissi-kijyun.pdf.md
+  @@ -325,4 +325,4 @@
+   務               ·   ★3・★4 要求事項・評価基準の概要           ・自ら実施計画を立案することができる。
+  -従               ·   自己評価結果の記入方法の概要               ・★3 確認従事者、★4 評価従事者に計画を説明しすることができる。
+  -事                                                ・★登録申請事業者に一連のプロセスを説明し、合意を得ることがができる。
+  +従               ·   自己評価結果の記入方法の概要               ・★3 確認従事者、★4 評価従事者に計画を説明することができる。
+  +事                                                ・★登録申請事業者に一連のプロセスを説明し、合意を得ることができる。
+   前
+  @@ -481,2 +481,3 @@
+   日付                改定内容
+  +2026 年 11 月 2 日   誤記修正（附属書 A）
+   2026 年 9 月 18 日   誤記修正（3.5 フォローアップ研修受講証明書）
+  ````
+
+  </details>
+
+
 ### 2026-10-30
 
-- **ページ更新** [要求事項・評価基準 [2026年10月29日] ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、軽微な修正を行いました。なお、バージョンの変更はありません。](https://www.ipa.go.jp/security/scs/requirements-criteria.html)（+4 / -2） — [md](../documents/markdown/www.ipa.go.jp/security/scs/requirements-criteria.md) / [diff](diffs/2026-10-30/www.ipa.go.jp__security__scs__requirements-criteria.html.diff)
+- **ページ更新** [要求事項・評価基準 [2026年10月29日] ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、軽微な修正を行いました。なお、バージョンの変更はありません。](https://www.ipa.go.jp/security/scs/requirements-criteria.html)（+4 / -2） — [md](../documents/scs/requirements-criteria.md) / [diff](diffs/2026-10-30/www.ipa.go.jp__security__scs__requirements-criteria.html.diff)
 
   <details><summary>差分を表示</summary>
 
@@ -85,7 +149,7 @@
 
   </details>
 
-- **ページ更新** [よくある質問 [2026年10月30日] よくある質問を一部修正しました。](https://www.ipa.go.jp/security/scs/faq.html)（+6 / -3） — [md](../documents/markdown/www.ipa.go.jp/security/scs/faq.md) / [diff](diffs/2026-10-30/www.ipa.go.jp__security__scs__faq.html.diff)
+- **ページ更新** [よくある質問 [2026年10月30日] よくある質問を一部修正しました。](https://www.ipa.go.jp/security/scs/faq.html)（+6 / -3） — [md](../documents/scs/faq.md) / [diff](diffs/2026-10-30/www.ipa.go.jp__security__scs__faq.html.diff)
 
   <details><summary>差分を表示</summary>
 
@@ -120,7 +184,7 @@
 
 ### 2026-10-29
 
-- **ページ更新** [要求事項・評価基準 [2026年10月29日] ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、編集ミスによる軽微な修正を行いました。なお、バージョンの変更はありません。](https://www.ipa.go.jp/security/scs/requirements-criteria.html)（+10 / -6） — [md](../archive/markdown/www.ipa.go.jp/security/scs/requirements-criteria.html/2026-10-29_requirements-criteria.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__requirements-criteria.html.diff)
+- **ページ更新** [要求事項・評価基準 [2026年10月29日] ★3・★4 要求事項・評価基準、★3・★4 自己評価等ガイド、★3・★4 自己評価等ガイド 別紙 アセスメントシート、★4 第三者評価ガイドについて、編集ミスによる軽微な修正を行いました。なお、バージョンの変更はありません。](https://www.ipa.go.jp/security/scs/requirements-criteria.html)（+10 / -6） — [md](../archive/scs/2026-10-29_requirements-criteria.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__requirements-criteria.html.diff)
 
   <details><summary>差分を表示</summary>
 
@@ -169,7 +233,7 @@
 
   </details>
 
-- **文書更新** [★3・★4 要求事項・評価基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx)（+1 / -1） — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-400-criteria-v1.1.xlsx.diff)
+- **文書更新** [★3・★4 要求事項・評価基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx)（+1 / -1） — [原本](../documents/scs/requirements-criteria/SCS-400-criteria-v1.1.xlsx) / [md](../documents/scs/requirements-criteria/SCS-400-criteria-v1.1.xlsx.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-400-criteria-v1.1.xlsx.diff)
 
   <details><summary>差分を表示</summary>
 
@@ -185,7 +249,7 @@
 
   </details>
 
-- **文書更新** [★3・★4 自己評価等ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf)（+30 / -19） — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-410-self-assess-guide-v1.0.pdf.diff)
+- **文書更新** [★3・★4 自己評価等ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf)（+30 / -19） — [原本](../documents/scs/requirements-criteria/SCS-410-self-assess-guide-v1.0.pdf) / [md](../documents/scs/requirements-criteria/SCS-410-self-assess-guide-v1.0.pdf.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-410-self-assess-guide-v1.0.pdf.diff)
 
   <details><summary>差分を表示</summary>
 
@@ -263,7 +327,7 @@
 
   </details>
 
-- **文書更新** [★3・★4 自己評価等ガイド 別紙_アセスメントシート](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx)（+5 / -5） — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-410AP-self-assess-sheet-v1.0.xlsx.diff)
+- **文書更新** [★3・★4 自己評価等ガイド 別紙_アセスメントシート](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx)（+5 / -5） — [原本](../documents/scs/requirements-criteria/SCS-410AP-self-assess-sheet-v1.0.xlsx) / [md](../documents/scs/requirements-criteria/SCS-410AP-self-assess-sheet-v1.0.xlsx.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-410AP-self-assess-sheet-v1.0.xlsx.diff)
 
   <details><summary>差分を表示</summary>
 
@@ -293,7 +357,7 @@
 
   </details>
 
-- **文書更新** [★4 第三者評価ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf)（+15 / -10） — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-420-3rdparty-assess-guide-v1.0.pdf.diff)
+- **文書更新** [★4 第三者評価ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf)（+15 / -10） — [原本](../documents/scs/requirements-criteria/SCS-420-3rdparty-assess-guide-v1.0.pdf) / [md](../documents/scs/requirements-criteria/SCS-420-3rdparty-assess-guide-v1.0.pdf.md) / [diff](diffs/2026-10-29/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-420-3rdparty-assess-guide-v1.0.pdf.diff)
 
   <details><summary>差分を表示</summary>
 
@@ -341,65 +405,65 @@
 
 ### 2026-10-28
 
-- **ページ追加** [サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）](https://www.ipa.go.jp/security/scs/index.html) — [md](../documents/markdown/www.ipa.go.jp/security/scs/index.md)
-- **ページ追加** [要求事項・評価基準](https://www.ipa.go.jp/security/scs/requirements-criteria.html)（トップページ配下から追加） — [md](../archive/markdown/www.ipa.go.jp/security/scs/requirements-criteria.html/2026-10-28_requirements-criteria.md)
-- **ページ追加** [制度規程・委員会](https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html)（トップページ配下から追加） — [md](../documents/markdown/www.ipa.go.jp/security/scs/regulation-advisory-committeess.md)
-- **ページ追加** [評価機関・技術検証事業者・研修事業者 新規申請事業者向け説明会](https://www.ipa.go.jp/security/scs/security-experts-organization/setsumeikai.html)（トップページ配下から追加） — [md](../documents/markdown/www.ipa.go.jp/security/scs/security-experts-organization/setsumeikai.md)
-- **ページ追加** [SCS評価制度の詳細情報](https://www.ipa.go.jp/security/scs/details.html)（トップページ配下から追加） — [md](../documents/markdown/www.ipa.go.jp/security/scs/details.md)
-- **ページ追加** [評価機関・技術検証事業者・研修事業者・SCSセキュリティ専門家](https://www.ipa.go.jp/security/scs/security-experts-organization/index.html)（トップページ配下から追加） — [md](../documents/markdown/www.ipa.go.jp/security/scs/security-experts-organization/index.md)
-- **ページ追加** [関連制度・施策](https://www.ipa.go.jp/security/scs/related-regulations-policies.html)（トップページ配下から追加） — [md](../documents/markdown/www.ipa.go.jp/security/scs/related-regulations-policies.md)
-- **ページ追加** [よくある質問](https://www.ipa.go.jp/security/scs/faq.html)（トップページ配下から追加） — [md](../archive/markdown/www.ipa.go.jp/security/scs/faq.html/2026-10-28_faq.md)
-- **ページ追加** [指定申請について（評価機関・技術検証事業者・研修事業者向け）](https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html)（トップページ配下から追加） — [md](../documents/markdown/www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.md)
-- **ページ追加** [サイバーセキュリティお助け隊サービス（新類型）実証事業](https://www.ipa.go.jp/security/sme/otasuke-scs.html)（トップページのリンクから追加） — [md](../documents/markdown/www.ipa.go.jp/security/sme/otasuke-scs.md)
-- **ページ追加** [「サイバーセキュリティお助け隊サービス（新類型）実証事業」に係る企画競争](https://www.ipa.go.jp/choutatsu/koubo/2026/koubo20260626.html)（トップページのリンクから追加） — [md](../documents/markdown/www.ipa.go.jp/choutatsu/koubo/2026/koubo20260626.md)
-- **文書追加** [SCS評価制度の料金設定について公開しました。](https://www.ipa.go.jp/security/scs/rcu1hd00000075om-att/pricelist.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd00000075om-att/pricelist.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd00000075om-att/pricelist.pdf.md)
-- **文書追加** [要求事項・評価基準、ガイド、解説書等の位置づけ](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-documents-overview.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-documents-overview.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-documents-overview.pdf.md)
-- **文書追加** [★3・★4 要求事項・評価基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx) — [原本](../archive/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx/2026-10-28_SCS-400-criteria-v1.1.xlsx) / [md](../archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx/2026-10-28_SCS-400-criteria-v1.1.xlsx.md)
-- **文書追加** [変更箇所（2026年10月28日公開版と2026年3月27日公開版の差異）](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-criteria-comparison.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-criteria-comparison.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-criteria-comparison.pdf.md)
-- **文書追加** [★3・★4 自己評価等ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf) — [原本](../archive/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf/2026-10-28_SCS-410-self-assess-guide-v1.0.pdf) / [md](../archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf/2026-10-28_SCS-410-self-assess-guide-v1.0.pdf.md)
-- **文書追加** [★3・★4 自己評価等ガイド 別紙_アセスメントシート](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx) — [原本](../archive/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx/2026-10-28_SCS-410AP-self-assess-sheet-v1.0.xlsx) / [md](../archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx/2026-10-28_SCS-410AP-self-assess-sheet-v1.0.xlsx.md)
-- **文書追加** [★4 第三者評価ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf) — [原本](../archive/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf/2026-10-28_SCS-420-3rdparty-assess-guide-v1.0.pdf) / [md](../archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf/2026-10-28_SCS-420-3rdparty-assess-guide-v1.0.pdf.md)
-- **文書追加** [★4 技術検証ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-430-vuln-assess-guide-v1.0.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-430-vuln-assess-guide-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-430-vuln-assess-guide-v1.0.pdf.md)
-- **文書追加** [★3・★4 要求事項・評価基準 解説書](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-620-handbook-v1.0.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-620-handbook-v1.0.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-620-handbook-v1.0.pdf.md)
-- **文書追加** [基本規程](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-100.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-100.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-100.pdf.md)
-- **文書追加** [制度運営機関規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-110.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-110.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-110.pdf.md)
-- **文書追加** [運営審議委員会規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-111.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-111.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-111.pdf.md)
-- **文書追加** [指定委員会規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-112.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-112.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-112.pdf.md)
-- **文書追加** [評価機関指定規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-210.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-210.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-210.pdf.md)
-- **文書追加** [技術検証事業者指定規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-220.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-220.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-220.pdf.md)
-- **文書追加** [研修事業者指定規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-230.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-230.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-230.pdf.md)
-- **文書追加** [評価機関指定基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-310_hyouka-kijyun.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-310_hyouka-kijyun.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-310_hyouka-kijyun.pdf.md)
-- **文書追加** [技術検証事業者指定基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-320_gijyutukenshou-kijyun.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-320_gijyutukenshou-kijyun.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-320_gijyutukenshou-kijyun.pdf.md)
-- **文書追加** [研修事業者指定基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330A_kenshuu-kijyun.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330A_kenshuu-kijyun.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330A_kenshuu-kijyun.pdf.md)
-- **文書追加** [研修実施基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf.md)
-- **文書追加** [評価機関指定手順](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-510_hyouka-tejyun.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-510_hyouka-tejyun.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-510_hyouka-tejyun.pdf.md)
-- **文書追加** [技術検証事業者指定手順](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-520_gijyutukeshou-tejyun.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-520_gijyutukeshou-tejyun.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-520_gijyutukeshou-tejyun.pdf.md)
-- **文書追加** [研修事業者指定手順](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-530_kenshuu-tejyun.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-530_kenshuu-tejyun.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-530_kenshuu-tejyun.pdf.md)
-- **文書追加** [第3回運営審議委員会(2026年9月11日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_BriefingMaterials_upd.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_BriefingMaterials_upd.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_BriefingMaterials_upd.pdf.md)
-- **文書追加** [第3回運営審議委員会(2026年9月11日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_ConciseMinutes_upd.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_ConciseMinutes_upd.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_ConciseMinutes_upd.pdf.md)
-- **文書追加** [第2回運営審議委員会(2026年7月8日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_BriefingMaterials.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_BriefingMaterials.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_BriefingMaterials.pdf.md)
-- **文書追加** [第2回運営審議委員会(2026年7月8日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_ConciseMinutes.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_ConciseMinutes.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_ConciseMinutes.pdf.md)
-- **文書追加** [第1回運営審議委員会(2026年6月10日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_BriefingMaterials.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_BriefingMaterials.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_BriefingMaterials.pdf.md)
-- **文書追加** [第1回運営審議委員会(2026年6月10日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_ConciseMinutes.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_ConciseMinutes.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_ConciseMinutes.pdf.md)
-- **文書追加** [第2回指定委員会(2026年8月20日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Handouts_02-0820_pt.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Handouts_02-0820_pt.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Handouts_02-0820_pt.pdf.md)
-- **文書追加** [第2回指定委員会(2026年8月20日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Summary_02-0820.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Summary_02-0820.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Summary_02-0820.pdf.md)
-- **文書追加** [第1回指定委員会(2026年7月27日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_BriefingMaterials.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_BriefingMaterials.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_BriefingMaterials.pdf.md)
-- **文書追加** [第1回指定委員会(2026年7月27日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_ConciseMinutes.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_ConciseMinutes.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_ConciseMinutes.pdf.md)
-- **文書追加** [SCS評価制度概要説明資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/SCS-overview.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/SCS-overview.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/SCS-overview.pdf.md)
-- **文書追加** [チラシ](https://www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/scs_leaflet.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/scs_leaflet.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/scs_leaflet.pdf.md)
-- **文書追加** [評価機関、技術検証事業者、研修事業者の指定申請に関するよくあるご質問(10月21日版)](https://www.ipa.go.jp/security/scs/security-experts-organization/rqr7mi0000003fch-att/shitei_faq.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/scs/security-experts-organization/rqr7mi0000003fch-att/shitei_faq.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/scs/security-experts-organization/rqr7mi0000003fch-att/shitei_faq.pdf.md)
-- **文書追加** [［ダウンロード］「お助け隊サービス（新類型）実証」説明資料](https://www.ipa.go.jp/security/sme/rqr7mi000000286e-att/setsumei_shiryo.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/sme/rqr7mi000000286e-att/setsumei_shiryo.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/sme/rqr7mi000000286e-att/setsumei_shiryo.pdf.md)
-- **文書追加** [［ダウンロード］本実証事業における中小企業等の定義](https://www.ipa.go.jp/security/sme/rqr7mi000000286e-att/chusho_teigi.pdf) — [原本](../documents/originals/www.ipa.go.jp/security/sme/rqr7mi000000286e-att/chusho_teigi.pdf) / [md](../documents/markdown/www.ipa.go.jp/security/sme/rqr7mi000000286e-att/chusho_teigi.pdf.md)
-- **文書追加** [2．公募要領 公募要領](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626.pdf) — [原本](../documents/originals/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626.pdf) / [md](../documents/markdown/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626.pdf.md)
-- **文書追加** [2．公募要領 公募要領](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626.docx) — [原本](../documents/originals/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626.docx) / [md](../documents/markdown/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626.docx.md)
-- **文書追加** [事業者向け説明資料](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626-01.pdf) — [原本](../documents/originals/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626-01.pdf) / [md](../documents/markdown/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626-01.pdf.md)
-- **文書追加** [質問回答書（第1回公開）](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa.pdf) — [原本](../documents/originals/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa.pdf) / [md](../documents/markdown/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa.pdf.md)
-- **文書追加** [質問回答書（第2回公開）](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa-02.pdf) — [原本](../documents/originals/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa-02.pdf) / [md](../documents/markdown/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa-02.pdf.md)
-- **文書追加** [質問回答書（第3回公開）](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa-03.pdf) — [原本](../documents/originals/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa-03.pdf) / [md](../documents/markdown/www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa-03.pdf.md)
+- **ページ追加** [サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）](https://www.ipa.go.jp/security/scs/index.html) — [md](../documents/scs/index.md)
+- **ページ追加** [要求事項・評価基準](https://www.ipa.go.jp/security/scs/requirements-criteria.html)（トップページ配下から追加） — [md](../archive/scs/2026-10-28_requirements-criteria.md)
+- **ページ追加** [制度規程・委員会](https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html)（トップページ配下から追加） — [md](../archive/scs/2026-10-28_regulation-advisory-committeess.md)
+- **ページ追加** [評価機関・技術検証事業者・研修事業者 新規申請事業者向け説明会](https://www.ipa.go.jp/security/scs/security-experts-organization/setsumeikai.html)（トップページ配下から追加） — [md](../documents/scs/security-experts-organization/setsumeikai.md)
+- **ページ追加** [SCS評価制度の詳細情報](https://www.ipa.go.jp/security/scs/details.html)（トップページ配下から追加） — [md](../documents/scs/details.md)
+- **ページ追加** [評価機関・技術検証事業者・研修事業者・SCSセキュリティ専門家](https://www.ipa.go.jp/security/scs/security-experts-organization/index.html)（トップページ配下から追加） — [md](../documents/scs/security-experts-organization/index.md)
+- **ページ追加** [関連制度・施策](https://www.ipa.go.jp/security/scs/related-regulations-policies.html)（トップページ配下から追加） — [md](../documents/scs/related-regulations-policies.md)
+- **ページ追加** [よくある質問](https://www.ipa.go.jp/security/scs/faq.html)（トップページ配下から追加） — [md](../archive/scs/2026-10-28_faq.md)
+- **ページ追加** [指定申請について（評価機関・技術検証事業者・研修事業者向け）](https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html)（トップページ配下から追加） — [md](../documents/scs/security-experts-organization/shiteishinsei.md)
+- **ページ追加** [サイバーセキュリティお助け隊サービス（新類型）実証事業](https://www.ipa.go.jp/security/sme/otasuke-scs.html)（トップページのリンクから追加） — [md](../documents/sme/otasuke-scs.md)
+- **ページ追加** [「サイバーセキュリティお助け隊サービス（新類型）実証事業」に係る企画競争](https://www.ipa.go.jp/choutatsu/koubo/2026/koubo20260626.html)（トップページのリンクから追加） — [md](../documents/choutatsu/koubo/2026/koubo20260626.md)
+- **文書追加** [SCS評価制度の料金設定について公開しました。](https://www.ipa.go.jp/security/scs/rcu1hd00000075om-att/pricelist.pdf) — [原本](../documents/scs/index/pricelist.pdf) / [md](../documents/scs/index/pricelist.pdf.md)
+- **文書追加** [要求事項・評価基準、ガイド、解説書等の位置づけ](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-documents-overview.pdf) — [原本](../documents/scs/requirements-criteria/SCS-documents-overview.pdf) / [md](../documents/scs/requirements-criteria/SCS-documents-overview.pdf.md)
+- **文書追加** [★3・★4 要求事項・評価基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx) — [原本](../archive/scs/requirements-criteria/2026-10-28_SCS-400-criteria-v1.1.xlsx) / [md](../archive/scs/requirements-criteria/2026-10-28_SCS-400-criteria-v1.1.xlsx.md)
+- **文書追加** [変更箇所（2026年10月28日公開版と2026年3月27日公開版の差異）](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-criteria-comparison.pdf) — [原本](../documents/scs/requirements-criteria/SCS-criteria-comparison.pdf) / [md](../documents/scs/requirements-criteria/SCS-criteria-comparison.pdf.md)
+- **文書追加** [★3・★4 自己評価等ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410-self-assess-guide-v1.0.pdf) — [原本](../archive/scs/requirements-criteria/2026-10-28_SCS-410-self-assess-guide-v1.0.pdf) / [md](../archive/scs/requirements-criteria/2026-10-28_SCS-410-self-assess-guide-v1.0.pdf.md)
+- **文書追加** [★3・★4 自己評価等ガイド 別紙_アセスメントシート](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-410AP-self-assess-sheet-v1.0.xlsx) — [原本](../archive/scs/requirements-criteria/2026-10-28_SCS-410AP-self-assess-sheet-v1.0.xlsx) / [md](../archive/scs/requirements-criteria/2026-10-28_SCS-410AP-self-assess-sheet-v1.0.xlsx.md)
+- **文書追加** [★4 第三者評価ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-420-3rdparty-assess-guide-v1.0.pdf) — [原本](../archive/scs/requirements-criteria/2026-10-28_SCS-420-3rdparty-assess-guide-v1.0.pdf) / [md](../archive/scs/requirements-criteria/2026-10-28_SCS-420-3rdparty-assess-guide-v1.0.pdf.md)
+- **文書追加** [★4 技術検証ガイド](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-430-vuln-assess-guide-v1.0.pdf) — [原本](../documents/scs/requirements-criteria/SCS-430-vuln-assess-guide-v1.0.pdf) / [md](../documents/scs/requirements-criteria/SCS-430-vuln-assess-guide-v1.0.pdf.md)
+- **文書追加** [★3・★4 要求事項・評価基準 解説書](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-620-handbook-v1.0.pdf) — [原本](../documents/scs/requirements-criteria/SCS-620-handbook-v1.0.pdf) / [md](../documents/scs/requirements-criteria/SCS-620-handbook-v1.0.pdf.md)
+- **文書追加** [基本規程](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-100.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-100.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-100.pdf.md)
+- **文書追加** [制度運営機関規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-110.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-110.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-110.pdf.md)
+- **文書追加** [運営審議委員会規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-111.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-111.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-111.pdf.md)
+- **文書追加** [指定委員会規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-112.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-112.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-112.pdf.md)
+- **文書追加** [評価機関指定規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-210.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-210.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-210.pdf.md)
+- **文書追加** [技術検証事業者指定規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-220.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-220.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-220.pdf.md)
+- **文書追加** [研修事業者指定規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-230.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-230.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-230.pdf.md)
+- **文書追加** [評価機関指定基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-310_hyouka-kijyun.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-310_hyouka-kijyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-310_hyouka-kijyun.pdf.md)
+- **文書追加** [技術検証事業者指定基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-320_gijyutukenshou-kijyun.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-320_gijyutukenshou-kijyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-320_gijyutukenshou-kijyun.pdf.md)
+- **文書追加** [研修事業者指定基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330A_kenshuu-kijyun.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-330A_kenshuu-kijyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-330A_kenshuu-kijyun.pdf.md)
+- **文書追加** [研修実施基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf) — [原本](../archive/scs/regulation-advisory-committeess/2026-10-28_SCS-330B_kenshuu-jissi-kijyun.pdf) / [md](../archive/scs/regulation-advisory-committeess/2026-10-28_SCS-330B_kenshuu-jissi-kijyun.pdf.md)
+- **文書追加** [評価機関指定手順](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-510_hyouka-tejyun.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-510_hyouka-tejyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-510_hyouka-tejyun.pdf.md)
+- **文書追加** [技術検証事業者指定手順](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-520_gijyutukeshou-tejyun.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-520_gijyutukeshou-tejyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-520_gijyutukeshou-tejyun.pdf.md)
+- **文書追加** [研修事業者指定手順](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-530_kenshuu-tejyun.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-530_kenshuu-tejyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-530_kenshuu-tejyun.pdf.md)
+- **文書追加** [第3回運営審議委員会(2026年9月11日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_BriefingMaterials_upd.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf.md)
+- **文書追加** [第3回運営審議委員会(2026年9月11日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_ConciseMinutes_upd.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf.md)
+- **文書追加** [第2回運営審議委員会(2026年7月8日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_BriefingMaterials.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-0708_BriefingMaterials.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0708_BriefingMaterials.pdf.md)
+- **文書追加** [第2回運営審議委員会(2026年7月8日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_ConciseMinutes.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-0708_ConciseMinutes.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0708_ConciseMinutes.pdf.md)
+- **文書追加** [第1回運営審議委員会(2026年6月10日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_BriefingMaterials.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-0610_BriefingMaterials.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0610_BriefingMaterials.pdf.md)
+- **文書追加** [第1回運営審議委員会(2026年6月10日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_ConciseMinutes.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-0610_ConciseMinutes.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0610_ConciseMinutes.pdf.md)
+- **文書追加** [第2回指定委員会(2026年8月20日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Handouts_02-0820_pt.pdf) — [原本](../documents/scs/regulation-advisory-committeess/Handouts_02-0820_pt.pdf) / [md](../documents/scs/regulation-advisory-committeess/Handouts_02-0820_pt.pdf.md)
+- **文書追加** [第2回指定委員会(2026年8月20日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Summary_02-0820.pdf) — [原本](../documents/scs/regulation-advisory-committeess/Summary_02-0820.pdf) / [md](../documents/scs/regulation-advisory-committeess/Summary_02-0820.pdf.md)
+- **文書追加** [第1回指定委員会(2026年7月27日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_BriefingMaterials.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-0727_BriefingMaterials.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0727_BriefingMaterials.pdf.md)
+- **文書追加** [第1回指定委員会(2026年7月27日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_ConciseMinutes.pdf) — [原本](../documents/scs/regulation-advisory-committeess/SCS-0727_ConciseMinutes.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0727_ConciseMinutes.pdf.md)
+- **文書追加** [SCS評価制度概要説明資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/SCS-overview.pdf) — [原本](../documents/scs/details/SCS-overview.pdf) / [md](../documents/scs/details/SCS-overview.pdf.md)
+- **文書追加** [チラシ](https://www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/scs_leaflet.pdf) — [原本](../documents/scs/details/scs_leaflet.pdf) / [md](../documents/scs/details/scs_leaflet.pdf.md)
+- **文書追加** [評価機関、技術検証事業者、研修事業者の指定申請に関するよくあるご質問(10月21日版)](https://www.ipa.go.jp/security/scs/security-experts-organization/rqr7mi0000003fch-att/shitei_faq.pdf) — [原本](../documents/scs/security-experts-organization/shiteishinsei/shitei_faq.pdf) / [md](../documents/scs/security-experts-organization/shiteishinsei/shitei_faq.pdf.md)
+- **文書追加** [［ダウンロード］「お助け隊サービス（新類型）実証」説明資料](https://www.ipa.go.jp/security/sme/rqr7mi000000286e-att/setsumei_shiryo.pdf) — [原本](../documents/sme/otasuke-scs/setsumei_shiryo.pdf) / [md](../documents/sme/otasuke-scs/setsumei_shiryo.pdf.md)
+- **文書追加** [［ダウンロード］本実証事業における中小企業等の定義](https://www.ipa.go.jp/security/sme/rqr7mi000000286e-att/chusho_teigi.pdf) — [原本](../documents/sme/otasuke-scs/chusho_teigi.pdf) / [md](../documents/sme/otasuke-scs/chusho_teigi.pdf.md)
+- **文書追加** [2．公募要領 公募要領](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626.pdf) — [原本](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626.pdf) / [md](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626.pdf.md)
+- **文書追加** [2．公募要領 公募要領](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626.docx) — [原本](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626.docx) / [md](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626.docx.md)
+- **文書追加** [事業者向け説明資料](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626-01.pdf) — [原本](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626-01.pdf) / [md](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626-01.pdf.md)
+- **文書追加** [質問回答書（第1回公開）](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa.pdf) — [原本](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626qa.pdf) / [md](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626qa.pdf.md)
+- **文書追加** [質問回答書（第2回公開）](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa-02.pdf) — [原本](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626qa-02.pdf) / [md](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626qa-02.pdf.md)
+- **文書追加** [質問回答書（第3回公開）](https://www.ipa.go.jp/choutatsu/koubo/2026/rcu1hd0000011s13-att/koubo20260626qa-03.pdf) — [原本](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626qa-03.pdf) / [md](../documents/choutatsu/koubo/2026/koubo20260626/koubo20260626qa-03.pdf.md)
 
 ### 2026-03-27
 
-- **文書差し替え** [★3・★4 要求事項・評価基準（20260327001-c.xlsx → SCS-400-criteria-v1.1.xlsx）](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx)（+85 / -14） — [原本](../archive/originals/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx/2026-10-28_SCS-400-criteria-v1.1.xlsx) / [md](../archive/markdown/www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx/2026-10-28_SCS-400-criteria-v1.1.xlsx.md) / [diff](diffs/2026-03-27/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-400-criteria-v1.1.xlsx.diff)
+- **文書差し替え** [★3・★4 要求事項・評価基準（20260327001-c.xlsx → SCS-400-criteria-v1.1.xlsx）](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-400-criteria-v1.1.xlsx)（+85 / -14） — [原本](../archive/scs/requirements-criteria/2026-10-28_SCS-400-criteria-v1.1.xlsx) / [md](../archive/scs/requirements-criteria/2026-10-28_SCS-400-criteria-v1.1.xlsx.md) / [diff](diffs/2026-03-27/www.ipa.go.jp__security__scs__rcu1hd0000007a2i-att__SCS-400-criteria-v1.1.xlsx.diff)
 
   <details><summary>差分を表示</summary>
 

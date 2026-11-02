@@ -22,13 +22,13 @@ IPA「サプライチェーン強化に向けたセキュリティ対策評価�
 
 | 項目 | 内容 |
 |---|---|
-| 監視中のページ | 11 ページ |
-| 監視中の文書 | 44 件 |
-| 最後に変更を検知した日 | 2026-10-30 |
-| 最終確認日 | 2026-10-30 |
+| 取得中のページ | 11 ページ |
+| 取得中の文書 | 44 件 |
+| 最後に変更を検知した日 | 2026-11-02 |
+| 最終確認日 | 2026-11-02 |
 
 | フォルダ | 中身 |
 |---|---|
-| [`documents/`](documents/) | 最新版。`originals/` に原本（PDF・Word・Excel など）、`markdown/` にテキスト版とページ本文 |
-| [`archive/`](archive/) | 過去の版。`<検知日>_<ファイル名>` で保存 |
-| [`history/`](history/) | 更新履歴。[CHANGELOG.md](history/CHANGELOG.md)（差分つき）、[documents.md](history/documents.md)（監視対象と過去の版の一覧）、`diffs/`（差分）、`catalog.json`（台帳） |
+| [`documents/`](documents/) | 最新版。`<分類>/<ページ名>.md` にページ本文、`<分類>/<ページ名>/` に資料の原本（PDF・Word・Excel など）とテキスト版 |
+| [`archive/`](archive/) | 過去の版。`<分類>/<検知日>_<ファイル名>` で保存 |
+| [`history/`](history/) | 更新履歴。[CHANGELOG.md](history/CHANGELOG.md)（差分つき）、[documents.md](history/documents.md)（取得対象と過去の版の一覧）、`diffs/`（差分）、`catalog.json`（台帳） |
