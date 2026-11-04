@@ -1274,6 +1274,18 @@
   },
   "events": [
     {
+      "added": 14,
+      "date": "2026-11-04",
+      "diff": "history/diffs/2026-11-04/www.ipa.go.jp__security__scs__details.html.diff",
+      "markdown": "documents/scs/details.md",
+      "original": null,
+      "removed": 11,
+      "title": "SCS評価制度の詳細情報 [2026年11月4日] 各画像に代替テキストを追加しました。",
+      "type": "ページ更新",
+      "url": "https://www.ipa.go.jp/security/scs/details.html",
+      "version": "2026-11-04"
+    },
+    {
       "added": 7,
       "date": "2026-11-02",
       "diff": "history/diffs/2026-11-02/www.ipa.go.jp__security__scs__regulation-advisory-committeess.html.diff",
@@ -1436,7 +1448,7 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/details.md",
+      "markdown": "archive/scs/2026-10-28_details.md",
       "note": "トップページ配下から追加",
       "original": null,
       "removed": 0,
@@ -2122,6 +2134,10 @@
     "https://www.ipa.go.jp/security/scs/details.html": {
       "changelog": [
         {
+          "date": "2026年11月4日",
+          "text": "各画像に代替テキストを追加しました。"
+        },
+        {
           "date": "2026年10月28日",
           "text": "制度規程、評価用ガイド等の公表に伴い、情報を更新しました。"
         },
@@ -2140,26 +2156,39 @@
       ],
       "dates": [
         "公開日：2026年4月21日",
-        "最終更新日：2026年10月28日"
+        "最終更新日：2026年11月4日"
       ],
       "first_seen": "2026-10-28",
       "order": 4,
       "page": "https://www.ipa.go.jp/security/scs/details.html",
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
-      "sha256": "38782514289c48076cb4a7f4194dc24125a6e21ad1d267599b4b2033ad62976d",
+      "sha256": "ccf8ef6a612d53065a541e48395283646824b48b69d2b2046e6e0d1b830ebb04",
       "status": "active",
       "title": "SCS評価制度の詳細情報",
       "versions": [
         {
           "added": 0,
+          "archived": true,
           "date": "2026-10-28",
           "diff": null,
-          "markdown": "documents/scs/details.md",
+          "markdown": "archive/scs/2026-10-28_details.md",
+          "page": "https://www.ipa.go.jp/security/scs/details.html",
           "removed": 0,
           "sha256": "38782514289c48076cb4a7f4194dc24125a6e21ad1d267599b4b2033ad62976d",
           "url": "https://www.ipa.go.jp/security/scs/details.html",
           "version": "2026-10-28"
+        },
+        {
+          "added": 14,
+          "date": "2026-11-04",
+          "diff": "history/diffs/2026-11-04/www.ipa.go.jp__security__scs__details.html.diff",
+          "markdown": "documents/scs/details.md",
+          "page": "https://www.ipa.go.jp/security/scs/details.html",
+          "removed": 11,
+          "sha256": "ccf8ef6a612d53065a541e48395283646824b48b69d2b2046e6e0d1b830ebb04",
+          "url": "https://www.ipa.go.jp/security/scs/details.html",
+          "version": "2026-11-04"
         }
       ],
       "via": "トップページ配下"

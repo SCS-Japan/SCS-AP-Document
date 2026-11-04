@@ -1,6 +1,6 @@
 # 取得対象のページと文書
 
-最終確認：2026-11-03
+最終確認：2026-11-04
 
 ## ページ
 
@@ -10,7 +10,7 @@
 | [要求事項・評価基準](https://www.ipa.go.jp/security/scs/requirements-criteria.html) | トップページ配下 | 2026年10月29日 | 掲載中 | 2026-10-30 | [md](../documents/scs/requirements-criteria.md) |
 | [制度規程・委員会](https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html) | トップページ配下 | 2026年11月2日 | 掲載中 | 2026-11-02 | [md](../documents/scs/regulation-advisory-committeess.md) |
 | [評価機関・技術検証事業者・研修事業者 新規申請事業者向け説明会](https://www.ipa.go.jp/security/scs/security-experts-organization/setsumeikai.html) | トップページ配下 | 2026年10月26日 | 掲載中 | 2026-10-28 | [md](../documents/scs/security-experts-organization/setsumeikai.md) |
-| [SCS評価制度の詳細情報](https://www.ipa.go.jp/security/scs/details.html) | トップページ配下 | 2026年10月28日 | 掲載中 | 2026-10-28 | [md](../documents/scs/details.md) |
+| [SCS評価制度の詳細情報](https://www.ipa.go.jp/security/scs/details.html) | トップページ配下 | 2026年11月4日 | 掲載中 | 2026-11-04 | [md](../documents/scs/details.md) |
 | [評価機関・技術検証事業者・研修事業者・SCSセキュリティ専門家](https://www.ipa.go.jp/security/scs/security-experts-organization/index.html) | トップページ配下 | 2026年10月28日 | 掲載中 | 2026-10-28 | [md](../documents/scs/security-experts-organization/index.md) |
 | [関連制度・施策](https://www.ipa.go.jp/security/scs/related-regulations-policies.html) | トップページ配下 | 2026年10月28日 | 掲載中 | 2026-10-28 | [md](../documents/scs/related-regulations-policies.md) |
 | [よくある質問](https://www.ipa.go.jp/security/scs/faq.html) | トップページ配下 | 2026年10月30日 | 掲載中 | 2026-10-30 | [md](../documents/scs/faq.md) |
@@ -102,6 +102,15 @@
 ## 過去の版
 
 ### ページの過去の版
+
+<details><summary>SCS評価制度の詳細情報（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-04 | documents（最新） |  | +14 / -11 | [md](../documents/scs/details.md) | [diff](diffs/2026-11-04/www.ipa.go.jp__security__scs__details.html.diff) |
+| 2026-10-28 | archive |  | — | [md](../archive/scs/2026-10-28_details.md) | — |
+
+</details>
 
 <details><summary>制度規程・委員会（掲載中）</summary>
 
