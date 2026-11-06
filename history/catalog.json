@@ -1274,6 +1274,18 @@
   },
   "events": [
     {
+      "added": 7,
+      "date": "2026-11-06",
+      "diff": "history/diffs/2026-11-06/www.ipa.go.jp__security__sme__otasuke-scs.html.diff",
+      "markdown": "documents/sme/otasuke-scs.md",
+      "original": null,
+      "removed": 4,
+      "title": "サイバーセキュリティお助け隊サービス（新類型）実証事業 [2026年11月5日] 事業者の募集状況等を更新",
+      "type": "ページ更新",
+      "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+      "version": "2026-11-06"
+    },
+    {
       "added": 14,
       "date": "2026-11-04",
       "diff": "history/diffs/2026-11-04/www.ipa.go.jp__security__scs__details.html.diff",
@@ -1513,7 +1525,7 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/sme/otasuke-scs.md",
+      "markdown": "archive/sme/2026-10-28_otasuke-scs.md",
       "note": "トップページのリンクから追加",
       "original": null,
       "removed": 0,
@@ -2656,6 +2668,10 @@
     "https://www.ipa.go.jp/security/sme/otasuke-scs.html": {
       "changelog": [
         {
+          "date": "2026年11月5日",
+          "text": "事業者の募集状況等を更新"
+        },
+        {
           "date": "2026年10月28日",
           "text": "事業者の募集状況等を更新"
         },
@@ -2694,7 +2710,7 @@
       ],
       "dates": [
         "公開日：2026年9月15日",
-        "最終更新日：2026年10月28日",
+        "最終更新日：2026年11月5日",
         "独立行政法人情報処理推進機構 セキュリティセンター"
       ],
       "first_seen": "2026-10-28",
@@ -2702,19 +2718,32 @@
       "page": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
-      "sha256": "09be67e19e8726de7452a6460347cac6ab38141a1fc69deac57ad87177105ee6",
+      "sha256": "4541407d0c50a1d0461f532ef9f25a9918c7a60e3ed7216cc73c03304f1f66d1",
       "status": "active",
       "title": "サイバーセキュリティお助け隊サービス（新類型）実証事業",
       "versions": [
         {
           "added": 0,
+          "archived": true,
           "date": "2026-10-28",
           "diff": null,
-          "markdown": "documents/sme/otasuke-scs.md",
+          "markdown": "archive/sme/2026-10-28_otasuke-scs.md",
+          "page": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
           "removed": 0,
           "sha256": "09be67e19e8726de7452a6460347cac6ab38141a1fc69deac57ad87177105ee6",
           "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
           "version": "2026-10-28"
+        },
+        {
+          "added": 7,
+          "date": "2026-11-06",
+          "diff": "history/diffs/2026-11-06/www.ipa.go.jp__security__sme__otasuke-scs.html.diff",
+          "markdown": "documents/sme/otasuke-scs.md",
+          "page": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+          "removed": 4,
+          "sha256": "4541407d0c50a1d0461f532ef9f25a9918c7a60e3ed7216cc73c03304f1f66d1",
+          "url": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
+          "version": "2026-11-06"
         }
       ],
       "via": "トップページのリンク"

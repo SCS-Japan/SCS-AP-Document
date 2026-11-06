@@ -57,6 +57,46 @@
 
 ## 検知した変更
 
+### 2026-11-06
+
+- **ページ更新** [サイバーセキュリティお助け隊サービス（新類型）実証事業 [2026年11月5日] 事業者の募集状況等を更新](https://www.ipa.go.jp/security/sme/otasuke-scs.html)（+7 / -4） — [md](../documents/sme/otasuke-scs.md) / [diff](diffs/2026-11-06/www.ipa.go.jp__security__sme__otasuke-scs.html.diff)
+
+  <details><summary>差分を表示</summary>
+
+  ````diff
+  --- archive/sme/2026-10-28_otasuke-scs.md
+  +++ documents/sme/otasuke-scs.md
+  @@ -3,3 +3,3 @@
+   title: "サイバーセキュリティお助け隊サービス（新類型）実証事業"
+  -dates: ["公開日：2026年9月15日", "最終更新日：2026年10月28日", "独立行政法人情報処理推進機構 セキュリティセンター"]
+  +dates: ["公開日：2026年9月15日", "最終更新日：2026年11月5日", "独立行政法人情報処理推進機構 セキュリティセンター"]
+   ---
+  @@ -9,3 +9,3 @@
+   
+  -最終更新日：2026年10月28日
+  +最終更新日：2026年11月5日
+   
+  @@ -222,3 +222,3 @@
+   
+  -第1クール2026年10月中旬まで募集。次回募集は2026年11月上旬予定。
+  +現在第2クール募集中
+   
+  @@ -362,3 +362,3 @@
+   
+  -キャンセル待ち
+  +**募集終了**
+   
+  @@ -621,2 +621,5 @@
+   
+  +- 2026年11月5日
+  +
+  +  事業者の募集状況等を更新
+   - 2026年10月28日
+  ````
+
+  </details>
+
+
 ### 2026-11-04
 
 - **ページ更新** [SCS評価制度の詳細情報 [2026年11月4日] 各画像に代替テキストを追加しました。](https://www.ipa.go.jp/security/scs/details.html)（+14 / -11） — [md](../documents/scs/details.md) / [diff](diffs/2026-11-04/www.ipa.go.jp__security__scs__details.html.diff)
@@ -489,7 +529,7 @@
 - **ページ追加** [関連制度・施策](https://www.ipa.go.jp/security/scs/related-regulations-policies.html)（トップページ配下から追加） — [md](../documents/scs/related-regulations-policies.md)
 - **ページ追加** [よくある質問](https://www.ipa.go.jp/security/scs/faq.html)（トップページ配下から追加） — [md](../archive/scs/2026-10-28_faq.md)
 - **ページ追加** [指定申請について（評価機関・技術検証事業者・研修事業者向け）](https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html)（トップページ配下から追加） — [md](../documents/scs/security-experts-organization/shiteishinsei.md)
-- **ページ追加** [サイバーセキュリティお助け隊サービス（新類型）実証事業](https://www.ipa.go.jp/security/sme/otasuke-scs.html)（トップページのリンクから追加） — [md](../documents/sme/otasuke-scs.md)
+- **ページ追加** [サイバーセキュリティお助け隊サービス（新類型）実証事業](https://www.ipa.go.jp/security/sme/otasuke-scs.html)（トップページのリンクから追加） — [md](../archive/sme/2026-10-28_otasuke-scs.md)
 - **ページ追加** [「サイバーセキュリティお助け隊サービス（新類型）実証事業」に係る企画競争](https://www.ipa.go.jp/choutatsu/koubo/2026/koubo20260626.html)（トップページのリンクから追加） — [md](../documents/choutatsu/koubo/2026/koubo20260626.md)
 - **文書追加** [SCS評価制度の料金設定について公開しました。](https://www.ipa.go.jp/security/scs/rcu1hd00000075om-att/pricelist.pdf) — [原本](../documents/scs/index/pricelist.pdf) / [md](../documents/scs/index/pricelist.pdf.md)
 - **文書追加** [要求事項・評価基準、ガイド、解説書等の位置づけ](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-documents-overview.pdf) — [原本](../documents/scs/requirements-criteria/SCS-documents-overview.pdf) / [md](../documents/scs/requirements-criteria/SCS-documents-overview.pdf.md)
