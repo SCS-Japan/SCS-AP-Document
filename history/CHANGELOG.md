@@ -57,9 +57,59 @@
 
 ## 検知した変更
 
+### 2026-11-09
+
+- **ページ更新** [サイバーセキュリティお助け隊サービス（新類型）実証事業 [2026年11月9日] 事業者の募集状況等を更新](https://www.ipa.go.jp/security/sme/otasuke-scs.html)（+8 / -8） — [md](../documents/sme/otasuke-scs.md) / [diff](diffs/2026-11-09/www.ipa.go.jp__security__sme__otasuke-scs.html.diff)
+
+  <details><summary>差分を表示</summary>
+
+  ````diff
+  --- archive/sme/2026-11-06_otasuke-scs.md
+  +++ documents/sme/otasuke-scs.md
+  @@ -3,3 +3,3 @@
+   title: "サイバーセキュリティお助け隊サービス（新類型）実証事業"
+  -dates: ["公開日：2026年9月15日", "最終更新日：2026年11月5日", "独立行政法人情報処理推進機構 セキュリティセンター"]
+  +dates: ["公開日：2026年9月15日", "最終更新日：2026年11月9日", "独立行政法人情報処理推進機構 セキュリティセンター"]
+   ---
+  @@ -9,3 +9,3 @@
+   
+  -最終更新日：2026年11月5日
+  +最終更新日：2026年11月9日
+   
+  @@ -353,3 +353,3 @@
+   
+  -準備中
+  +- [株式会社NTT Risk Manager](https://www.ntt-rm.co.jp/info/copy_information_20261001.html)
+   
+  @@ -563,3 +563,3 @@
+   
+  -- [リコージャパン株式会社](https://www.secure.rc-club.ricoh.co.jp/scs_otasuketai_jissyo_entry)
+  +- －
+   
+  @@ -572,3 +572,3 @@
+   
+  -10/16より募集開始。11/6締切予定。
+  +**募集終了**
+   
+  @@ -621,2 +621,5 @@
+   
+  +- 2026年11月9日
+  +
+  +  事業者の募集状況等を更新
+   - 2026年11月5日
+  @@ -650,4 +653 @@
+     「株式会社セキュアイノベーション」へ連絡先（電子メール）を追加
+  -- 2026年9月15日
+  -
+  -  ページを公開
+  ````
+
+  </details>
+
+
 ### 2026-11-06
 
-- **ページ更新** [サイバーセキュリティお助け隊サービス（新類型）実証事業 [2026年11月5日] 事業者の募集状況等を更新](https://www.ipa.go.jp/security/sme/otasuke-scs.html)（+7 / -4） — [md](../documents/sme/otasuke-scs.md) / [diff](diffs/2026-11-06/www.ipa.go.jp__security__sme__otasuke-scs.html.diff)
+- **ページ更新** [サイバーセキュリティお助け隊サービス（新類型）実証事業 [2026年11月5日] 事業者の募集状況等を更新](https://www.ipa.go.jp/security/sme/otasuke-scs.html)（+7 / -4） — [md](../archive/sme/2026-11-06_otasuke-scs.md) / [diff](diffs/2026-11-06/www.ipa.go.jp__security__sme__otasuke-scs.html.diff)
 
   <details><summary>差分を表示</summary>
 
