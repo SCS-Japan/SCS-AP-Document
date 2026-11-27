@@ -1,0 +1,13 @@
+--- archive/scs/regulation/2026-10-28_SCS-510_hyouka-tejyun.pdf.md
++++ documents/scs/regulation/SCS-510_hyouka-tejyun.pdf.md
+@@ -1,2 +1,2 @@
+-<!-- source: https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-510_hyouka-tejyun.pdf -->
++<!-- source: https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-510_hyouka-tejyun.pdf -->
+ 
+@@ -131,4 +131,4 @@
+ 新規に指定を申請する者は、評価機関指定基準、評価機関指定手順（本手順）を確認
+-の上、指定の申請様式に必要事項を記入し、代表者による記名押印又は電子署名の上、
+-制度運営機関に提出する。
++の上、指定の申請様式に必要事項を記入し、代表者又による記名押印又は電子署名の
++上、制度運営機関に提出する。
+ 申請者は、申請書を提出する際は、次の各号の資料を添付する。

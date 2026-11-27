@@ -480,24 +480,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "第2回指定委員会(2026年8月20日)",
-      "status": "active",
+      "status": "replaced",
       "title": "第2回指定委員会(2026年8月20日) 配付資料",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Tue, 15 Sep 2026 06:56:22 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/Handouts_02-0820_pt.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/Handouts_02-0820_pt.pdf",
-          "removed": 0,
-          "sha256": "21f2e6896b1ac3c4d138b09feb37653ea9ee60549cabe4dcc50520a30221ea49",
-          "size": 1569646,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Handouts_02-0820_pt.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_BriefingMaterials.pdf": {
       "doc_no": null,
@@ -507,24 +494,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "第1回運営審議委員会(2026年6月10日)",
-      "status": "active",
+      "status": "replaced",
       "title": "第1回運営審議委員会(2026年6月10日) 配付資料",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 07:24:23 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-0610_BriefingMaterials.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-0610_BriefingMaterials.pdf",
-          "removed": 0,
-          "sha256": "5ef201a61b61004d6849d7d4bfa50d08641ab25127986d4ab86a4e3a4c559d97",
-          "size": 1617638,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_BriefingMaterials.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_ConciseMinutes.pdf": {
       "doc_no": null,
@@ -534,24 +508,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "第1回運営審議委員会(2026年6月10日)",
-      "status": "active",
+      "status": "replaced",
       "title": "第1回運営審議委員会(2026年6月10日) 議事要旨",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 07:24:24 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-0610_ConciseMinutes.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-0610_ConciseMinutes.pdf",
-          "removed": 0,
-          "sha256": "05e4e4c1503dfab5826a2b48be68e459e27befb17c55085fb85903507073dff1",
-          "size": 175768,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_ConciseMinutes.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_BriefingMaterials.pdf": {
       "doc_no": null,
@@ -561,24 +522,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "第2回運営審議委員会(2026年7月8日)",
-      "status": "active",
+      "status": "replaced",
       "title": "第2回運営審議委員会(2026年7月8日) 配付資料",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Tue, 15 Sep 2026 06:56:22 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-0708_BriefingMaterials.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-0708_BriefingMaterials.pdf",
-          "removed": 0,
-          "sha256": "44719caeadad908fe4f67305c91607c6ee1cce762a7b5c0a4177fcb054d805ba",
-          "size": 1680717,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_BriefingMaterials.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_ConciseMinutes.pdf": {
       "doc_no": null,
@@ -588,24 +536,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "第2回運営審議委員会(2026年7月8日)",
-      "status": "active",
+      "status": "replaced",
       "title": "第2回運営審議委員会(2026年7月8日) 議事要旨",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Tue, 15 Sep 2026 06:56:22 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-0708_ConciseMinutes.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-0708_ConciseMinutes.pdf",
-          "removed": 0,
-          "sha256": "bb198b7d4c8bd6eb26802a2b92f47ca8326a153cec686b3d26ff0a75625a6773",
-          "size": 170423,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_ConciseMinutes.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_BriefingMaterials.pdf": {
       "doc_no": null,
@@ -615,24 +550,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "第1回指定委員会(2026年7月27日)",
-      "status": "active",
+      "status": "replaced",
       "title": "第1回指定委員会(2026年7月27日) 配付資料",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 07:24:28 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-0727_BriefingMaterials.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-0727_BriefingMaterials.pdf",
-          "removed": 0,
-          "sha256": "fea2dc13f4364061b74908918c47d9aa715fcf66605a9903d531f9777b005255",
-          "size": 2501534,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_BriefingMaterials.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_ConciseMinutes.pdf": {
       "doc_no": null,
@@ -642,24 +564,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "第1回指定委員会(2026年7月27日)",
-      "status": "active",
+      "status": "replaced",
       "title": "第1回指定委員会(2026年7月27日) 議事要旨",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 07:24:28 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-0727_ConciseMinutes.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-0727_ConciseMinutes.pdf",
-          "removed": 0,
-          "sha256": "9df928882c1852d81697497ac29d17ec1c6a370c094f537996281b0d89b735a4",
-          "size": 158114,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_ConciseMinutes.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_BriefingMaterials_upd.pdf": {
       "doc_no": null,
@@ -669,24 +578,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "第3回運営審議委員会(2026年9月11日)",
-      "status": "active",
+      "status": "replaced",
       "title": "第3回運営審議委員会(2026年9月11日) 配付資料",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 18 Sep 2026 06:48:19 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf",
-          "removed": 0,
-          "sha256": "57820d6053be9076e30c7bb38af75677c4cb075c93d66228ae8df7f83342bfc5",
-          "size": 2502161,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_BriefingMaterials_upd.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_ConciseMinutes_upd.pdf": {
       "doc_no": null,
@@ -696,24 +592,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "第3回運営審議委員会(2026年9月11日)",
-      "status": "active",
+      "status": "replaced",
       "title": "第3回運営審議委員会(2026年9月11日) 議事要旨",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 18 Sep 2026 06:48:19 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf",
-          "removed": 0,
-          "sha256": "da6773572626041860366b9814b4fef625ca7e6bbc1d262214a01c2082c99f30",
-          "size": 216744,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_ConciseMinutes_upd.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-100.pdf": {
       "doc_no": "SCS-100",
@@ -723,24 +606,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度規程",
-      "status": "active",
+      "status": "replaced",
       "title": "基本規程",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 07:24:21 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-100.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-100.pdf",
-          "removed": 0,
-          "sha256": "0837060fb203cbf01fb904332163b80d7395793c78602ce059b70f5ac2d951f3",
-          "size": 351486,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-100.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-110.pdf": {
       "doc_no": "SCS-110",
@@ -750,24 +620,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度規則",
-      "status": "active",
+      "status": "replaced",
       "title": "制度運営機関規則",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 07:24:21 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-110.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-110.pdf",
-          "removed": 0,
-          "sha256": "2f79a583d901ea986ff82f03585327d5e23b4165542c20d07a6539c8fb8eddef",
-          "size": 323127,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-110.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-111.pdf": {
       "doc_no": "SCS-111",
@@ -777,24 +634,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度規則",
-      "status": "active",
+      "status": "replaced",
       "title": "運営審議委員会規則",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 07:24:21 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-111.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-111.pdf",
-          "removed": 0,
-          "sha256": "1f8eae732c5d1585ff7751b074d1c2e09f2d0671e1803f57f8225cb16e1561e6",
-          "size": 290664,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-111.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-112.pdf": {
       "doc_no": "SCS-112",
@@ -804,24 +648,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度規則",
-      "status": "active",
+      "status": "replaced",
       "title": "指定委員会規則",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 07:24:22 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-112.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-112.pdf",
-          "removed": 0,
-          "sha256": "c2f42721ed9a302adbe169487c5544b94a493e6612e64fe4c1eb1dfa57a4b3d6",
-          "size": 265309,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-112.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-210.pdf": {
       "doc_no": "SCS-210",
@@ -831,24 +662,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度規則",
-      "status": "active",
+      "status": "replaced",
       "title": "評価機関指定規則",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 07:24:22 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-210.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-210.pdf",
-          "removed": 0,
-          "sha256": "3305782b7677e2262acd1b42d5e0a69c2ff8f10acf53cf7981bb41a0034e9c2d",
-          "size": 242558,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-210.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-220.pdf": {
       "doc_no": "SCS-220",
@@ -858,24 +676,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度規則",
-      "status": "active",
+      "status": "replaced",
       "title": "技術検証事業者指定規則",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 07:24:22 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-220.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-220.pdf",
-          "removed": 0,
-          "sha256": "f41eb0f5d31572ab6a1c20fec9dd6272bc2a8908eaf5c1181176126f11771589",
-          "size": 244490,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-220.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-230.pdf": {
       "doc_no": "SCS-230",
@@ -885,24 +690,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度規則",
-      "status": "active",
+      "status": "replaced",
       "title": "研修事業者指定規則",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 07:24:22 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-230.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-230.pdf",
-          "removed": 0,
-          "sha256": "b9c91f36f6b2404e9106afea2e3af59211139a2f33be249fda0ec763eb9d8b82",
-          "size": 242528,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-230.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-310_hyouka-kijyun.pdf": {
       "doc_no": "SCS-310",
@@ -912,24 +704,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度基準",
-      "status": "active",
+      "status": "replaced",
       "title": "評価機関指定基準",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 06:01:29 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-310_hyouka-kijyun.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-310_hyouka-kijyun.pdf",
-          "removed": 0,
-          "sha256": "341aa40fb1141ccf1ff1809572e6f8e6c939c207ac05515bfcebae143483a23f",
-          "size": 398206,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-310_hyouka-kijyun.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-320_gijyutukenshou-kijyun.pdf": {
       "doc_no": "SCS-320",
@@ -939,24 +718,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度基準",
-      "status": "active",
+      "status": "replaced",
       "title": "技術検証事業者指定基準",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 06:01:29 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-320_gijyutukenshou-kijyun.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-320_gijyutukenshou-kijyun.pdf",
-          "removed": 0,
-          "sha256": "899616057568551be8eee7f20ec3734fe960134f51c95b4a42a3ae162e606859",
-          "size": 393338,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-320_gijyutukenshou-kijyun.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330A_kenshuu-kijyun.pdf": {
       "doc_no": "SCS-330A",
@@ -966,24 +732,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度基準",
-      "status": "active",
+      "status": "replaced",
       "title": "研修事業者指定基準",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Thu, 15 Oct 2026 06:05:34 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-330A_kenshuu-kijyun.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-330A_kenshuu-kijyun.pdf",
-          "removed": 0,
-          "sha256": "29cbca7ee153d69a4518da506f4a642c9f11e87af5884452d25ff2f09a8cff66",
-          "size": 396519,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330A_kenshuu-kijyun.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf": {
       "doc_no": "SCS-330B",
@@ -993,40 +746,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度基準",
-      "status": "active",
+      "status": "replaced",
       "title": "研修実施基準",
-      "versions": [
-        {
-          "added": 0,
-          "archived": true,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 18 Sep 2026 06:48:18 GMT",
-          "markdown": "archive/scs/regulation-advisory-committeess/2026-10-28_SCS-330B_kenshuu-jissi-kijyun.pdf.md",
-          "original": "archive/scs/regulation-advisory-committeess/2026-10-28_SCS-330B_kenshuu-jissi-kijyun.pdf",
-          "page": "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html",
-          "removed": 0,
-          "sha256": "a123a0ba602f1b991c58b8e767ab16961e3b02fb01cd54c94c524d92cb50ddc7",
-          "size": 484546,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf",
-          "version": "2026-10-28"
-        },
-        {
-          "added": 3,
-          "date": "2026-11-02",
-          "diff": "history/diffs/2026-11-02/www.ipa.go.jp__security__scs__rcu1hd0000007af3-att__SCS-330B_kenshuu-jissi-kijyun.pdf.diff",
-          "last_modified": "Mon, 02 Nov 2026 06:02:21 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-330B_kenshuu-jissi-kijyun.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-330B_kenshuu-jissi-kijyun.pdf",
-          "page": "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html",
-          "removed": 2,
-          "sha256": "55f46c4f303d9b8fbdf00b07e2471faa4eb0856c0b0fbc1e90d30480f4651663",
-          "size": 429048,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf",
-          "version": "2026-11-02"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-510_hyouka-tejyun.pdf": {
       "doc_no": "SCS-510",
@@ -1036,24 +760,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度手順",
-      "status": "active",
+      "status": "replaced",
       "title": "評価機関指定手順",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Tue, 15 Sep 2026 06:56:21 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-510_hyouka-tejyun.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-510_hyouka-tejyun.pdf",
-          "removed": 0,
-          "sha256": "78ef8e1fe13b3ee80df26f6ddc471a854badae154f7a884ab054083185f0108c",
-          "size": 509007,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-510_hyouka-tejyun.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-520_gijyutukeshou-tejyun.pdf": {
       "doc_no": "SCS-520",
@@ -1063,24 +774,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度手順",
-      "status": "active",
+      "status": "replaced",
       "title": "技術検証事業者指定手順",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Fri, 11 Sep 2026 06:01:29 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-520_gijyutukeshou-tejyun.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-520_gijyutukeshou-tejyun.pdf",
-          "removed": 0,
-          "sha256": "d948512263356bbb2bd644c8191143c79627c6abf99a06d5a1ef9523f1480f57",
-          "size": 353762,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-520_gijyutukeshou-tejyun.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-530_kenshuu-tejyun.pdf": {
       "doc_no": "SCS-530",
@@ -1090,24 +788,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "制度手順",
-      "status": "active",
+      "status": "replaced",
       "title": "研修事業者指定手順",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Tue, 15 Sep 2026 06:56:21 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/SCS-530_kenshuu-tejyun.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/SCS-530_kenshuu-tejyun.pdf",
-          "removed": 0,
-          "sha256": "c319a6ea50b5eaf0a9f7464b87eab3df8f4e8aa84f02f317a5a791819be13fa8",
-          "size": 525695,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-530_kenshuu-tejyun.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Summary_02-0820.pdf": {
       "doc_no": null,
@@ -1117,24 +802,11 @@
       "pages": [
         "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
       ],
+      "removed": "2026-11-27",
       "section": "第2回指定委員会(2026年8月20日)",
-      "status": "active",
+      "status": "replaced",
       "title": "第2回指定委員会(2026年8月20日) 議事要旨",
-      "versions": [
-        {
-          "added": 0,
-          "date": "2026-10-28",
-          "diff": null,
-          "last_modified": "Tue, 15 Sep 2026 06:56:22 GMT",
-          "markdown": "documents/scs/regulation-advisory-committeess/Summary_02-0820.pdf.md",
-          "original": "documents/scs/regulation-advisory-committeess/Summary_02-0820.pdf",
-          "removed": 0,
-          "sha256": "2b401f2b33a36734a26834cea7cabec4444a55d0c4e30621aaef8780fab9d694",
-          "size": 255857,
-          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Summary_02-0820.pdf",
-          "version": "2026-10-28"
-        }
-      ]
+      "versions": []
     },
     "https://www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/SCS-overview.pdf": {
       "doc_no": null,
@@ -1187,6 +859,1077 @@
           "size": 831123,
           "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/scs_leaflet.pdf",
           "version": "2026-10-28"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/Handouts_02-0820_pt.pdf": {
+      "doc_no": null,
+      "first_seen": "2026-11-27",
+      "official_updated": null,
+      "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/advisory-committeess.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Handouts_02-0820_pt.pdf",
+      "section": "第2回指定委員会(2026年8月20日)",
+      "status": "active",
+      "title": "第2回指定委員会(2026年8月20日) 配付資料",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Tue, 15 Sep 2026 06:56:22 GMT",
+          "markdown": "archive/scs/advisory-committeess/2026-10-28_Handouts_02-0820_pt.pdf.md",
+          "original": "archive/scs/advisory-committeess/2026-10-28_Handouts_02-0820_pt.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 0,
+          "sha256": "21f2e6896b1ac3c4d138b09feb37653ea9ee60549cabe4dcc50520a30221ea49",
+          "size": 1569646,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Handouts_02-0820_pt.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__Handouts_02-0820_pt.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:10 GMT",
+          "markdown": "documents/scs/advisory-committeess/Handouts_02-0820_pt.pdf.md",
+          "original": "documents/scs/advisory-committeess/Handouts_02-0820_pt.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 1,
+          "sha256": "21f2e6896b1ac3c4d138b09feb37653ea9ee60549cabe4dcc50520a30221ea49",
+          "size": 1569646,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/Handouts_02-0820_pt.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0610_BriefingMaterials.pdf": {
+      "doc_no": null,
+      "first_seen": "2026-11-27",
+      "official_updated": null,
+      "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/advisory-committeess.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_BriefingMaterials.pdf",
+      "section": "第1回運営審議委員会(2026年6月10日)",
+      "status": "active",
+      "title": "第1回運営審議委員会(2026年6月10日) 配付資料",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 07:24:23 GMT",
+          "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0610_BriefingMaterials.pdf.md",
+          "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0610_BriefingMaterials.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 0,
+          "sha256": "5ef201a61b61004d6849d7d4bfa50d08641ab25127986d4ab86a4e3a4c559d97",
+          "size": 1617638,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_BriefingMaterials.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0610_BriefingMaterials.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:10 GMT",
+          "markdown": "documents/scs/advisory-committeess/SCS-0610_BriefingMaterials.pdf.md",
+          "original": "documents/scs/advisory-committeess/SCS-0610_BriefingMaterials.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 1,
+          "sha256": "e5251f39b07d1c2df9c432ba375de1d3d1cb5a70c5bd89fb0f7e9b6978323b81",
+          "size": 1668181,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0610_BriefingMaterials.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0610_ConciseMinutes_upd.pdf": {
+      "doc_no": null,
+      "first_seen": "2026-11-27",
+      "official_updated": null,
+      "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/advisory-committeess.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_ConciseMinutes.pdf",
+      "section": "第1回運営審議委員会(2026年6月10日)",
+      "status": "active",
+      "title": "第1回運営審議委員会(2026年6月10日) 議事要旨",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 07:24:24 GMT",
+          "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0610_ConciseMinutes.pdf.md",
+          "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0610_ConciseMinutes.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 0,
+          "sha256": "05e4e4c1503dfab5826a2b48be68e459e27befb17c55085fb85903507073dff1",
+          "size": 175768,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_ConciseMinutes.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0610_ConciseMinutes_upd.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:10 GMT",
+          "markdown": "documents/scs/advisory-committeess/SCS-0610_ConciseMinutes_upd.pdf.md",
+          "original": "documents/scs/advisory-committeess/SCS-0610_ConciseMinutes_upd.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 1,
+          "sha256": "fef299ed87085dd75cda2cdc9180250a63966d85acc56286646ac5b37495a950",
+          "size": 176769,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0610_ConciseMinutes_upd.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0708_BriefingMaterials.pdf": {
+      "doc_no": null,
+      "first_seen": "2026-11-27",
+      "official_updated": null,
+      "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/advisory-committeess.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_BriefingMaterials.pdf",
+      "section": "第2回運営審議委員会(2026年7月8日)",
+      "status": "active",
+      "title": "第2回運営審議委員会(2026年7月8日) 配付資料",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Tue, 15 Sep 2026 06:56:22 GMT",
+          "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0708_BriefingMaterials.pdf.md",
+          "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0708_BriefingMaterials.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 0,
+          "sha256": "44719caeadad908fe4f67305c91607c6ee1cce762a7b5c0a4177fcb054d805ba",
+          "size": 1680717,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_BriefingMaterials.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0708_BriefingMaterials.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:09 GMT",
+          "markdown": "documents/scs/advisory-committeess/SCS-0708_BriefingMaterials.pdf.md",
+          "original": "documents/scs/advisory-committeess/SCS-0708_BriefingMaterials.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 1,
+          "sha256": "44719caeadad908fe4f67305c91607c6ee1cce762a7b5c0a4177fcb054d805ba",
+          "size": 1680717,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0708_BriefingMaterials.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0708_ConciseMinutes.pdf": {
+      "doc_no": null,
+      "first_seen": "2026-11-27",
+      "official_updated": null,
+      "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/advisory-committeess.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_ConciseMinutes.pdf",
+      "section": "第2回運営審議委員会(2026年7月8日)",
+      "status": "active",
+      "title": "第2回運営審議委員会(2026年7月8日) 議事要旨",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Tue, 15 Sep 2026 06:56:22 GMT",
+          "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0708_ConciseMinutes.pdf.md",
+          "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0708_ConciseMinutes.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 0,
+          "sha256": "bb198b7d4c8bd6eb26802a2b92f47ca8326a153cec686b3d26ff0a75625a6773",
+          "size": 170423,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_ConciseMinutes.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0708_ConciseMinutes.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:10 GMT",
+          "markdown": "documents/scs/advisory-committeess/SCS-0708_ConciseMinutes.pdf.md",
+          "original": "documents/scs/advisory-committeess/SCS-0708_ConciseMinutes.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 1,
+          "sha256": "8de280f0817dc5e164a075a18598e3c8734ea054d8700db32a6f0ee7fd19bc6e",
+          "size": 169883,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0708_ConciseMinutes.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0727_BriefingMaterials_upd.pdf": {
+      "doc_no": null,
+      "first_seen": "2026-11-27",
+      "official_updated": null,
+      "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/advisory-committeess.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_BriefingMaterials.pdf",
+      "section": "第1回指定委員会(2026年7月27日)",
+      "status": "active",
+      "title": "第1回指定委員会(2026年7月27日) 配付資料",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 07:24:28 GMT",
+          "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0727_BriefingMaterials.pdf.md",
+          "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0727_BriefingMaterials.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 0,
+          "sha256": "fea2dc13f4364061b74908918c47d9aa715fcf66605a9903d531f9777b005255",
+          "size": 2501534,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_BriefingMaterials.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 4,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0727_BriefingMaterials_upd.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:11 GMT",
+          "markdown": "documents/scs/advisory-committeess/SCS-0727_BriefingMaterials_upd.pdf.md",
+          "original": "documents/scs/advisory-committeess/SCS-0727_BriefingMaterials_upd.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 2,
+          "sha256": "a3f802062cabda199fc1cac002c6465c0d5c5cd7a63d2731f129f7e944c94c93",
+          "size": 2224411,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0727_BriefingMaterials_upd.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0727_ConciseMinutes_upd.pdf": {
+      "doc_no": null,
+      "first_seen": "2026-11-27",
+      "official_updated": null,
+      "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/advisory-committeess.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_ConciseMinutes.pdf",
+      "section": "第1回指定委員会(2026年7月27日)",
+      "status": "active",
+      "title": "第1回指定委員会(2026年7月27日) 議事要旨",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 07:24:28 GMT",
+          "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0727_ConciseMinutes.pdf.md",
+          "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0727_ConciseMinutes.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 0,
+          "sha256": "9df928882c1852d81697497ac29d17ec1c6a370c094f537996281b0d89b735a4",
+          "size": 158114,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_ConciseMinutes.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 5,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0727_ConciseMinutes_upd.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:11 GMT",
+          "markdown": "documents/scs/advisory-committeess/SCS-0727_ConciseMinutes_upd.pdf.md",
+          "original": "documents/scs/advisory-committeess/SCS-0727_ConciseMinutes_upd.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 5,
+          "sha256": "f11ba85272dd5bdb79c8cbba9ba96acabc28b1e064efb3f08a3c3af8616d8b6f",
+          "size": 169006,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0727_ConciseMinutes_upd.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0911_BriefingMaterials_upd.pdf": {
+      "doc_no": null,
+      "first_seen": "2026-11-27",
+      "official_updated": null,
+      "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/advisory-committeess.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_BriefingMaterials_upd.pdf",
+      "section": "第3回運営審議委員会(2026年9月11日)",
+      "status": "active",
+      "title": "第3回運営審議委員会(2026年9月11日) 配付資料",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 18 Sep 2026 06:48:19 GMT",
+          "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0911_BriefingMaterials_upd.pdf.md",
+          "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0911_BriefingMaterials_upd.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 0,
+          "sha256": "57820d6053be9076e30c7bb38af75677c4cb075c93d66228ae8df7f83342bfc5",
+          "size": 2502161,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_BriefingMaterials_upd.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 28,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0911_BriefingMaterials_upd.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:09 GMT",
+          "markdown": "documents/scs/advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf.md",
+          "original": "documents/scs/advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 32,
+          "sha256": "57820d6053be9076e30c7bb38af75677c4cb075c93d66228ae8df7f83342bfc5",
+          "size": 2502161,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0911_BriefingMaterials_upd.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0911_ConciseMinutes_upd.pdf": {
+      "doc_no": null,
+      "first_seen": "2026-11-27",
+      "official_updated": null,
+      "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/advisory-committeess.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_ConciseMinutes_upd.pdf",
+      "section": "第3回運営審議委員会(2026年9月11日)",
+      "status": "active",
+      "title": "第3回運営審議委員会(2026年9月11日) 議事要旨",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 18 Sep 2026 06:48:19 GMT",
+          "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0911_ConciseMinutes_upd.pdf.md",
+          "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0911_ConciseMinutes_upd.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 0,
+          "sha256": "da6773572626041860366b9814b4fef625ca7e6bbc1d262214a01c2082c99f30",
+          "size": 216744,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_ConciseMinutes_upd.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0911_ConciseMinutes_upd.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:09 GMT",
+          "markdown": "documents/scs/advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf.md",
+          "original": "documents/scs/advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 1,
+          "sha256": "da6773572626041860366b9814b4fef625ca7e6bbc1d262214a01c2082c99f30",
+          "size": 216744,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0911_ConciseMinutes_upd.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/Summary_02-0820.pdf": {
+      "doc_no": null,
+      "first_seen": "2026-11-27",
+      "official_updated": null,
+      "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/advisory-committeess.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Summary_02-0820.pdf",
+      "section": "第2回指定委員会(2026年8月20日)",
+      "status": "active",
+      "title": "第2回指定委員会(2026年8月20日) 議事要旨",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Tue, 15 Sep 2026 06:56:22 GMT",
+          "markdown": "archive/scs/advisory-committeess/2026-10-28_Summary_02-0820.pdf.md",
+          "original": "archive/scs/advisory-committeess/2026-10-28_Summary_02-0820.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 0,
+          "sha256": "2b401f2b33a36734a26834cea7cabec4444a55d0c4e30621aaef8780fab9d694",
+          "size": 255857,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Summary_02-0820.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__Summary_02-0820.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:11 GMT",
+          "markdown": "documents/scs/advisory-committeess/Summary_02-0820.pdf.md",
+          "original": "documents/scs/advisory-committeess/Summary_02-0820.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 1,
+          "sha256": "2b401f2b33a36734a26834cea7cabec4444a55d0c4e30621aaef8780fab9d694",
+          "size": 255857,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/Summary_02-0820.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-100.pdf": {
+      "doc_no": "SCS-100",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年8月28日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-100.pdf",
+      "section": "制度規程",
+      "status": "active",
+      "title": "基本規程",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 07:24:21 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-100.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-100.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "0837060fb203cbf01fb904332163b80d7395793c78602ce059b70f5ac2d951f3",
+          "size": 351486,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-100.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-100.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:12 GMT",
+          "markdown": "documents/scs/regulation/SCS-100.pdf.md",
+          "original": "documents/scs/regulation/SCS-100.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "0837060fb203cbf01fb904332163b80d7395793c78602ce059b70f5ac2d951f3",
+          "size": 351486,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-100.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-110.pdf": {
+      "doc_no": "SCS-110",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年8月28日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-110.pdf",
+      "section": "制度規則",
+      "status": "active",
+      "title": "制度運営機関規則",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 07:24:21 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-110.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-110.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "2f79a583d901ea986ff82f03585327d5e23b4165542c20d07a6539c8fb8eddef",
+          "size": 323127,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-110.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-110.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:12 GMT",
+          "markdown": "documents/scs/regulation/SCS-110.pdf.md",
+          "original": "documents/scs/regulation/SCS-110.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "2f79a583d901ea986ff82f03585327d5e23b4165542c20d07a6539c8fb8eddef",
+          "size": 323127,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-110.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-111.pdf": {
+      "doc_no": "SCS-111",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年8月28日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-111.pdf",
+      "section": "制度規則",
+      "status": "active",
+      "title": "運営審議委員会規則",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 07:24:21 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-111.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-111.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "1f8eae732c5d1585ff7751b074d1c2e09f2d0671e1803f57f8225cb16e1561e6",
+          "size": 290664,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-111.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-111.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:12 GMT",
+          "markdown": "documents/scs/regulation/SCS-111.pdf.md",
+          "original": "documents/scs/regulation/SCS-111.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "1f8eae732c5d1585ff7751b074d1c2e09f2d0671e1803f57f8225cb16e1561e6",
+          "size": 290664,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-111.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-112.pdf": {
+      "doc_no": "SCS-112",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年8月28日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-112.pdf",
+      "section": "制度規則",
+      "status": "active",
+      "title": "指定委員会規則",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 07:24:22 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-112.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-112.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "c2f42721ed9a302adbe169487c5544b94a493e6612e64fe4c1eb1dfa57a4b3d6",
+          "size": 265309,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-112.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-112.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:12 GMT",
+          "markdown": "documents/scs/regulation/SCS-112.pdf.md",
+          "original": "documents/scs/regulation/SCS-112.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "c2f42721ed9a302adbe169487c5544b94a493e6612e64fe4c1eb1dfa57a4b3d6",
+          "size": 265309,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-112.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-210.pdf": {
+      "doc_no": "SCS-210",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年8月28日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-210.pdf",
+      "section": "制度規則",
+      "status": "active",
+      "title": "評価機関指定規則",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 07:24:22 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-210.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-210.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "3305782b7677e2262acd1b42d5e0a69c2ff8f10acf53cf7981bb41a0034e9c2d",
+          "size": 242558,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-210.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-210.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:12 GMT",
+          "markdown": "documents/scs/regulation/SCS-210.pdf.md",
+          "original": "documents/scs/regulation/SCS-210.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "3305782b7677e2262acd1b42d5e0a69c2ff8f10acf53cf7981bb41a0034e9c2d",
+          "size": 242558,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-210.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-220.pdf": {
+      "doc_no": "SCS-220",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年8月28日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-220.pdf",
+      "section": "制度規則",
+      "status": "active",
+      "title": "技術検証事業者指定規則",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 07:24:22 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-220.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-220.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "f41eb0f5d31572ab6a1c20fec9dd6272bc2a8908eaf5c1181176126f11771589",
+          "size": 244490,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-220.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-220.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:12 GMT",
+          "markdown": "documents/scs/regulation/SCS-220.pdf.md",
+          "original": "documents/scs/regulation/SCS-220.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "f41eb0f5d31572ab6a1c20fec9dd6272bc2a8908eaf5c1181176126f11771589",
+          "size": 244490,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-220.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-230.pdf": {
+      "doc_no": "SCS-230",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年8月28日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-230.pdf",
+      "section": "制度規則",
+      "status": "active",
+      "title": "研修事業者指定規則",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 07:24:22 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-230.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-230.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "b9c91f36f6b2404e9106afea2e3af59211139a2f33be249fda0ec763eb9d8b82",
+          "size": 242528,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-230.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-230.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:12 GMT",
+          "markdown": "documents/scs/regulation/SCS-230.pdf.md",
+          "original": "documents/scs/regulation/SCS-230.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "b9c91f36f6b2404e9106afea2e3af59211139a2f33be249fda0ec763eb9d8b82",
+          "size": 242528,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-230.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-310_hyouka-kijyun.pdf": {
+      "doc_no": "SCS-310",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年9月11日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-310_hyouka-kijyun.pdf",
+      "section": "制度基準",
+      "status": "active",
+      "title": "評価機関指定基準",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 06:01:29 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-310_hyouka-kijyun.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-310_hyouka-kijyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "341aa40fb1141ccf1ff1809572e6f8e6c939c207ac05515bfcebae143483a23f",
+          "size": 398206,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-310_hyouka-kijyun.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-310_hyouka-kijyun.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:12 GMT",
+          "markdown": "documents/scs/regulation/SCS-310_hyouka-kijyun.pdf.md",
+          "original": "documents/scs/regulation/SCS-310_hyouka-kijyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "341aa40fb1141ccf1ff1809572e6f8e6c939c207ac05515bfcebae143483a23f",
+          "size": 398206,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-310_hyouka-kijyun.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-320_gijyutukenshou-kijyun.pdf": {
+      "doc_no": "SCS-320",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年9月11日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-320_gijyutukenshou-kijyun.pdf",
+      "section": "制度基準",
+      "status": "active",
+      "title": "技術検証事業者指定基準",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 06:01:29 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-320_gijyutukenshou-kijyun.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-320_gijyutukenshou-kijyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "899616057568551be8eee7f20ec3734fe960134f51c95b4a42a3ae162e606859",
+          "size": 393338,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-320_gijyutukenshou-kijyun.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-320_gijyutukenshou-kijyun.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:13 GMT",
+          "markdown": "documents/scs/regulation/SCS-320_gijyutukenshou-kijyun.pdf.md",
+          "original": "documents/scs/regulation/SCS-320_gijyutukenshou-kijyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "899616057568551be8eee7f20ec3734fe960134f51c95b4a42a3ae162e606859",
+          "size": 393338,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-320_gijyutukenshou-kijyun.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-330A_kenshuu-kijyun.pdf": {
+      "doc_no": "SCS-330A",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年10月15日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330A_kenshuu-kijyun.pdf",
+      "section": "制度基準",
+      "status": "active",
+      "title": "研修事業者指定基準",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Thu, 15 Oct 2026 06:05:34 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-330A_kenshuu-kijyun.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-330A_kenshuu-kijyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "29cbca7ee153d69a4518da506f4a642c9f11e87af5884452d25ff2f09a8cff66",
+          "size": 396519,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330A_kenshuu-kijyun.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-330A_kenshuu-kijyun.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:13 GMT",
+          "markdown": "documents/scs/regulation/SCS-330A_kenshuu-kijyun.pdf.md",
+          "original": "documents/scs/regulation/SCS-330A_kenshuu-kijyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "29cbca7ee153d69a4518da506f4a642c9f11e87af5884452d25ff2f09a8cff66",
+          "size": 396519,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-330A_kenshuu-kijyun.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-330B_kenshuu-jissi-kijyun.pdf": {
+      "doc_no": "SCS-330B",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年11月2日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf",
+      "section": "制度基準",
+      "status": "active",
+      "title": "研修実施基準",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 18 Sep 2026 06:48:18 GMT",
+          "markdown": "archive/scs/regulation-advisory-committeess/2026-10-28_SCS-330B_kenshuu-jissi-kijyun.pdf.md",
+          "original": "archive/scs/regulation-advisory-committeess/2026-10-28_SCS-330B_kenshuu-jissi-kijyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html",
+          "removed": 0,
+          "sha256": "a123a0ba602f1b991c58b8e767ab16961e3b02fb01cd54c94c524d92cb50ddc7",
+          "size": 484546,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 3,
+          "archived": true,
+          "date": "2026-11-02",
+          "diff": "history/diffs/2026-11-02/www.ipa.go.jp__security__scs__rcu1hd0000007af3-att__SCS-330B_kenshuu-jissi-kijyun.pdf.diff",
+          "last_modified": "Mon, 02 Nov 2026 06:02:21 GMT",
+          "markdown": "archive/scs/regulation/2026-11-02_SCS-330B_kenshuu-jissi-kijyun.pdf.md",
+          "original": "archive/scs/regulation/2026-11-02_SCS-330B_kenshuu-jissi-kijyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 2,
+          "sha256": "55f46c4f303d9b8fbdf00b07e2471faa4eb0856c0b0fbc1e90d30480f4651663",
+          "size": 429048,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf",
+          "version": "2026-11-02"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-330B_kenshuu-jissi-kijyun.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:13 GMT",
+          "markdown": "documents/scs/regulation/SCS-330B_kenshuu-jissi-kijyun.pdf.md",
+          "original": "documents/scs/regulation/SCS-330B_kenshuu-jissi-kijyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "55f46c4f303d9b8fbdf00b07e2471faa4eb0856c0b0fbc1e90d30480f4651663",
+          "size": 429048,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-330B_kenshuu-jissi-kijyun.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-510_hyouka-tejyun.pdf": {
+      "doc_no": "SCS-510",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年9月11日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-510_hyouka-tejyun.pdf",
+      "section": "制度手順",
+      "status": "active",
+      "title": "評価機関指定手順",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Tue, 15 Sep 2026 06:56:21 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-510_hyouka-tejyun.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-510_hyouka-tejyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "78ef8e1fe13b3ee80df26f6ddc471a854badae154f7a884ab054083185f0108c",
+          "size": 509007,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-510_hyouka-tejyun.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 3,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-510_hyouka-tejyun.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:13 GMT",
+          "markdown": "documents/scs/regulation/SCS-510_hyouka-tejyun.pdf.md",
+          "original": "documents/scs/regulation/SCS-510_hyouka-tejyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 3,
+          "sha256": "2282bcbe4b5dea473e9277e75f53c432275f7859af1606d9908b0a6835fb64a1",
+          "size": 341311,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-510_hyouka-tejyun.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-520_gijyutukeshou-tejyun.pdf": {
+      "doc_no": "SCS-520",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年9月11日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-520_gijyutukeshou-tejyun.pdf",
+      "section": "制度手順",
+      "status": "active",
+      "title": "技術検証事業者指定手順",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Fri, 11 Sep 2026 06:01:29 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-520_gijyutukeshou-tejyun.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-520_gijyutukeshou-tejyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "d948512263356bbb2bd644c8191143c79627c6abf99a06d5a1ef9523f1480f57",
+          "size": 353762,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-520_gijyutukeshou-tejyun.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-520_gijyutukeshou-tejyun.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:13 GMT",
+          "markdown": "documents/scs/regulation/SCS-520_gijyutukeshou-tejyun.pdf.md",
+          "original": "documents/scs/regulation/SCS-520_gijyutukeshou-tejyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 1,
+          "sha256": "d948512263356bbb2bd644c8191143c79627c6abf99a06d5a1ef9523f1480f57",
+          "size": 353762,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-520_gijyutukeshou-tejyun.pdf",
+          "version": "2026-11-27"
+        }
+      ]
+    },
+    "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-530_kenshuu-tejyun.pdf": {
+      "doc_no": "SCS-530",
+      "first_seen": "2026-11-27",
+      "official_updated": "2026年9月11日",
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "pages": [
+        "https://www.ipa.go.jp/security/scs/regulation.html"
+      ],
+      "replaces": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-530_kenshuu-tejyun.pdf",
+      "section": "制度手順",
+      "status": "active",
+      "title": "研修事業者指定手順",
+      "versions": [
+        {
+          "added": 0,
+          "archived": true,
+          "date": "2026-10-28",
+          "diff": null,
+          "last_modified": "Tue, 15 Sep 2026 06:56:21 GMT",
+          "markdown": "archive/scs/regulation/2026-10-28_SCS-530_kenshuu-tejyun.pdf.md",
+          "original": "archive/scs/regulation/2026-10-28_SCS-530_kenshuu-tejyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "c319a6ea50b5eaf0a9f7464b87eab3df8f4e8aa84f02f317a5a791819be13fa8",
+          "size": 525695,
+          "url": "https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-530_kenshuu-tejyun.pdf",
+          "version": "2026-10-28"
+        },
+        {
+          "added": 3,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-530_kenshuu-tejyun.pdf.diff",
+          "last_modified": "Fri, 27 Nov 2026 06:03:13 GMT",
+          "markdown": "documents/scs/regulation/SCS-530_kenshuu-tejyun.pdf.md",
+          "original": "documents/scs/regulation/SCS-530_kenshuu-tejyun.pdf",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 3,
+          "sha256": "efc0cd4ce73acc67c96cfbe46159dde31e2016d47feb33e06a7bc73283a16e3f",
+          "size": 377978,
+          "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-530_kenshuu-tejyun.pdf",
+          "version": "2026-11-27"
         }
       ]
     },
@@ -1274,6 +2017,362 @@
   },
   "events": [
     {
+      "added": 12,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__index.html.diff",
+      "markdown": "documents/scs/index.md",
+      "original": null,
+      "removed": 11,
+      "title": "サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）",
+      "type": "本文変更（更新履歴に記載なし）",
+      "url": "https://www.ipa.go.jp/security/scs/index.html",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 0,
+      "date": "2026-11-27",
+      "diff": null,
+      "markdown": "documents/scs/regulation.md",
+      "note": "トップページ配下から追加",
+      "original": null,
+      "removed": 0,
+      "title": "制度規程",
+      "type": "ページ追加",
+      "url": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 0,
+      "date": "2026-11-27",
+      "diff": null,
+      "markdown": "documents/scs/advisory-committeess.md",
+      "note": "トップページ配下から追加",
+      "original": null,
+      "removed": 0,
+      "title": "委員会",
+      "type": "ページ追加",
+      "url": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__faq.html.diff",
+      "markdown": "documents/scs/faq.md",
+      "original": null,
+      "removed": 1,
+      "title": "よくある質問",
+      "type": "本文変更（更新履歴に記載なし）",
+      "url": "https://www.ipa.go.jp/security/scs/faq.html",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__security-experts-organization__shiteishinsei.html.diff",
+      "markdown": "documents/scs/security-experts-organization/shiteishinsei.md",
+      "original": null,
+      "removed": 1,
+      "title": "指定申請について（評価機関・技術検証事業者・研修事業者向け）",
+      "type": "本文変更（更新履歴に記載なし）",
+      "url": "https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html",
+      "version": "2026-11-27"
+    },
+    {
+      "date": "2026-11-27",
+      "title": "制度規程・委員会",
+      "type": "取得対象外（リンクがなくなった）",
+      "url": "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-100.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-100.pdf.md",
+      "original": "documents/scs/regulation/SCS-100.pdf",
+      "removed": 1,
+      "title": "基本規程（SCS-100.pdf → SCS-100.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-100.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-110.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-110.pdf.md",
+      "original": "documents/scs/regulation/SCS-110.pdf",
+      "removed": 1,
+      "title": "制度運営機関規則（SCS-110.pdf → SCS-110.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-110.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-111.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-111.pdf.md",
+      "original": "documents/scs/regulation/SCS-111.pdf",
+      "removed": 1,
+      "title": "運営審議委員会規則（SCS-111.pdf → SCS-111.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-111.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-112.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-112.pdf.md",
+      "original": "documents/scs/regulation/SCS-112.pdf",
+      "removed": 1,
+      "title": "指定委員会規則（SCS-112.pdf → SCS-112.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-112.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-210.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-210.pdf.md",
+      "original": "documents/scs/regulation/SCS-210.pdf",
+      "removed": 1,
+      "title": "評価機関指定規則（SCS-210.pdf → SCS-210.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-210.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-220.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-220.pdf.md",
+      "original": "documents/scs/regulation/SCS-220.pdf",
+      "removed": 1,
+      "title": "技術検証事業者指定規則（SCS-220.pdf → SCS-220.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-220.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-230.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-230.pdf.md",
+      "original": "documents/scs/regulation/SCS-230.pdf",
+      "removed": 1,
+      "title": "研修事業者指定規則（SCS-230.pdf → SCS-230.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-230.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-310_hyouka-kijyun.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-310_hyouka-kijyun.pdf.md",
+      "original": "documents/scs/regulation/SCS-310_hyouka-kijyun.pdf",
+      "removed": 1,
+      "title": "評価機関指定基準（SCS-310_hyouka-kijyun.pdf → SCS-310_hyouka-kijyun.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-310_hyouka-kijyun.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-320_gijyutukenshou-kijyun.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-320_gijyutukenshou-kijyun.pdf.md",
+      "original": "documents/scs/regulation/SCS-320_gijyutukenshou-kijyun.pdf",
+      "removed": 1,
+      "title": "技術検証事業者指定基準（SCS-320_gijyutukenshou-kijyun.pdf → SCS-320_gijyutukenshou-kijyun.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-320_gijyutukenshou-kijyun.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-330A_kenshuu-kijyun.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-330A_kenshuu-kijyun.pdf.md",
+      "original": "documents/scs/regulation/SCS-330A_kenshuu-kijyun.pdf",
+      "removed": 1,
+      "title": "研修事業者指定基準（SCS-330A_kenshuu-kijyun.pdf → SCS-330A_kenshuu-kijyun.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-330A_kenshuu-kijyun.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-330B_kenshuu-jissi-kijyun.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-330B_kenshuu-jissi-kijyun.pdf.md",
+      "original": "documents/scs/regulation/SCS-330B_kenshuu-jissi-kijyun.pdf",
+      "removed": 1,
+      "title": "研修実施基準（SCS-330B_kenshuu-jissi-kijyun.pdf → SCS-330B_kenshuu-jissi-kijyun.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-330B_kenshuu-jissi-kijyun.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 3,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-510_hyouka-tejyun.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-510_hyouka-tejyun.pdf.md",
+      "original": "documents/scs/regulation/SCS-510_hyouka-tejyun.pdf",
+      "removed": 3,
+      "title": "評価機関指定手順（SCS-510_hyouka-tejyun.pdf → SCS-510_hyouka-tejyun.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-510_hyouka-tejyun.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-520_gijyutukeshou-tejyun.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-520_gijyutukeshou-tejyun.pdf.md",
+      "original": "documents/scs/regulation/SCS-520_gijyutukeshou-tejyun.pdf",
+      "removed": 1,
+      "title": "技術検証事業者指定手順（SCS-520_gijyutukeshou-tejyun.pdf → SCS-520_gijyutukeshou-tejyun.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-520_gijyutukeshou-tejyun.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 3,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-530_kenshuu-tejyun.pdf.diff",
+      "markdown": "documents/scs/regulation/SCS-530_kenshuu-tejyun.pdf.md",
+      "original": "documents/scs/regulation/SCS-530_kenshuu-tejyun.pdf",
+      "removed": 3,
+      "title": "研修事業者指定手順（SCS-530_kenshuu-tejyun.pdf → SCS-530_kenshuu-tejyun.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-530_kenshuu-tejyun.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 28,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0911_BriefingMaterials_upd.pdf.diff",
+      "markdown": "documents/scs/advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf.md",
+      "original": "documents/scs/advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf",
+      "removed": 32,
+      "title": "第3回運営審議委員会(2026年9月11日) 配付資料（SCS-0911_BriefingMaterials_upd.pdf → SCS-0911_BriefingMaterials_upd.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0911_BriefingMaterials_upd.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0911_ConciseMinutes_upd.pdf.diff",
+      "markdown": "documents/scs/advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf.md",
+      "original": "documents/scs/advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf",
+      "removed": 1,
+      "title": "第3回運営審議委員会(2026年9月11日) 議事要旨（SCS-0911_ConciseMinutes_upd.pdf → SCS-0911_ConciseMinutes_upd.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0911_ConciseMinutes_upd.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0708_BriefingMaterials.pdf.diff",
+      "markdown": "documents/scs/advisory-committeess/SCS-0708_BriefingMaterials.pdf.md",
+      "original": "documents/scs/advisory-committeess/SCS-0708_BriefingMaterials.pdf",
+      "removed": 1,
+      "title": "第2回運営審議委員会(2026年7月8日) 配付資料（SCS-0708_BriefingMaterials.pdf → SCS-0708_BriefingMaterials.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0708_BriefingMaterials.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0708_ConciseMinutes.pdf.diff",
+      "markdown": "documents/scs/advisory-committeess/SCS-0708_ConciseMinutes.pdf.md",
+      "original": "documents/scs/advisory-committeess/SCS-0708_ConciseMinutes.pdf",
+      "removed": 1,
+      "title": "第2回運営審議委員会(2026年7月8日) 議事要旨（SCS-0708_ConciseMinutes.pdf → SCS-0708_ConciseMinutes.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0708_ConciseMinutes.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0610_BriefingMaterials.pdf.diff",
+      "markdown": "documents/scs/advisory-committeess/SCS-0610_BriefingMaterials.pdf.md",
+      "original": "documents/scs/advisory-committeess/SCS-0610_BriefingMaterials.pdf",
+      "removed": 1,
+      "title": "第1回運営審議委員会(2026年6月10日) 配付資料（SCS-0610_BriefingMaterials.pdf → SCS-0610_BriefingMaterials.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0610_BriefingMaterials.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0610_ConciseMinutes_upd.pdf.diff",
+      "markdown": "documents/scs/advisory-committeess/SCS-0610_ConciseMinutes_upd.pdf.md",
+      "original": "documents/scs/advisory-committeess/SCS-0610_ConciseMinutes_upd.pdf",
+      "removed": 1,
+      "title": "第1回運営審議委員会(2026年6月10日) 議事要旨（SCS-0610_ConciseMinutes.pdf → SCS-0610_ConciseMinutes_upd.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0610_ConciseMinutes_upd.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__Handouts_02-0820_pt.pdf.diff",
+      "markdown": "documents/scs/advisory-committeess/Handouts_02-0820_pt.pdf.md",
+      "original": "documents/scs/advisory-committeess/Handouts_02-0820_pt.pdf",
+      "removed": 1,
+      "title": "第2回指定委員会(2026年8月20日) 配付資料（Handouts_02-0820_pt.pdf → Handouts_02-0820_pt.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/Handouts_02-0820_pt.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 1,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__Summary_02-0820.pdf.diff",
+      "markdown": "documents/scs/advisory-committeess/Summary_02-0820.pdf.md",
+      "original": "documents/scs/advisory-committeess/Summary_02-0820.pdf",
+      "removed": 1,
+      "title": "第2回指定委員会(2026年8月20日) 議事要旨（Summary_02-0820.pdf → Summary_02-0820.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/Summary_02-0820.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 4,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0727_BriefingMaterials_upd.pdf.diff",
+      "markdown": "documents/scs/advisory-committeess/SCS-0727_BriefingMaterials_upd.pdf.md",
+      "original": "documents/scs/advisory-committeess/SCS-0727_BriefingMaterials_upd.pdf",
+      "removed": 2,
+      "title": "第1回指定委員会(2026年7月27日) 配付資料（SCS-0727_BriefingMaterials.pdf → SCS-0727_BriefingMaterials_upd.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0727_BriefingMaterials_upd.pdf",
+      "version": "2026-11-27"
+    },
+    {
+      "added": 5,
+      "date": "2026-11-27",
+      "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0727_ConciseMinutes_upd.pdf.diff",
+      "markdown": "documents/scs/advisory-committeess/SCS-0727_ConciseMinutes_upd.pdf.md",
+      "original": "documents/scs/advisory-committeess/SCS-0727_ConciseMinutes_upd.pdf",
+      "removed": 5,
+      "title": "第1回指定委員会(2026年7月27日) 議事要旨（SCS-0727_ConciseMinutes.pdf → SCS-0727_ConciseMinutes_upd.pdf）",
+      "type": "文書差し替え",
+      "url": "https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0727_ConciseMinutes_upd.pdf",
+      "version": "2026-11-27"
+    },
+    {
       "added": 8,
       "date": "2026-11-09",
       "diff": "history/diffs/2026-11-09/www.ipa.go.jp__security__sme__otasuke-scs.html.diff",
@@ -1313,7 +2412,7 @@
       "added": 7,
       "date": "2026-11-02",
       "diff": "history/diffs/2026-11-02/www.ipa.go.jp__security__scs__regulation-advisory-committeess.html.diff",
-      "markdown": "documents/scs/regulation-advisory-committeess.md",
+      "markdown": "archive/scs/2026-11-02_regulation-advisory-committeess.md",
       "original": null,
       "removed": 7,
       "title": "制度規程・委員会 [2026年11月2日] 研修実施基準を一部修正し、再公開しました。",
@@ -1325,8 +2424,8 @@
       "added": 3,
       "date": "2026-11-02",
       "diff": "history/diffs/2026-11-02/www.ipa.go.jp__security__scs__rcu1hd0000007af3-att__SCS-330B_kenshuu-jissi-kijyun.pdf.diff",
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-330B_kenshuu-jissi-kijyun.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-330B_kenshuu-jissi-kijyun.pdf",
+      "markdown": "archive/scs/regulation/2026-11-02_SCS-330B_kenshuu-jissi-kijyun.pdf.md",
+      "original": "archive/scs/regulation/2026-11-02_SCS-330B_kenshuu-jissi-kijyun.pdf",
       "removed": 2,
       "title": "研修実施基準",
       "type": "文書更新",
@@ -1349,7 +2448,7 @@
       "added": 6,
       "date": "2026-10-30",
       "diff": "history/diffs/2026-10-30/www.ipa.go.jp__security__scs__faq.html.diff",
-      "markdown": "documents/scs/faq.md",
+      "markdown": "archive/scs/2026-10-30_faq.md",
       "original": null,
       "removed": 3,
       "title": "よくある質問 [2026年10月30日] よくある質問を一部修正しました。",
@@ -1421,7 +2520,7 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/index.md",
+      "markdown": "archive/scs/2026-10-28_index.md",
       "original": null,
       "removed": 0,
       "title": "サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）",
@@ -1524,7 +2623,7 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/security-experts-organization/shiteishinsei.md",
+      "markdown": "archive/scs/security-experts-organization/2026-10-28_shiteishinsei.md",
       "note": "トップページ配下から追加",
       "original": null,
       "removed": 0,
@@ -1671,8 +2770,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-100.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-100.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-100.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-100.pdf",
       "removed": 0,
       "title": "基本規程",
       "type": "文書追加",
@@ -1683,8 +2782,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-110.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-110.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-110.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-110.pdf",
       "removed": 0,
       "title": "制度運営機関規則",
       "type": "文書追加",
@@ -1695,8 +2794,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-111.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-111.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-111.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-111.pdf",
       "removed": 0,
       "title": "運営審議委員会規則",
       "type": "文書追加",
@@ -1707,8 +2806,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-112.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-112.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-112.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-112.pdf",
       "removed": 0,
       "title": "指定委員会規則",
       "type": "文書追加",
@@ -1719,8 +2818,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-210.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-210.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-210.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-210.pdf",
       "removed": 0,
       "title": "評価機関指定規則",
       "type": "文書追加",
@@ -1731,8 +2830,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-220.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-220.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-220.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-220.pdf",
       "removed": 0,
       "title": "技術検証事業者指定規則",
       "type": "文書追加",
@@ -1743,8 +2842,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-230.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-230.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-230.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-230.pdf",
       "removed": 0,
       "title": "研修事業者指定規則",
       "type": "文書追加",
@@ -1755,8 +2854,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-310_hyouka-kijyun.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-310_hyouka-kijyun.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-310_hyouka-kijyun.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-310_hyouka-kijyun.pdf",
       "removed": 0,
       "title": "評価機関指定基準",
       "type": "文書追加",
@@ -1767,8 +2866,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-320_gijyutukenshou-kijyun.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-320_gijyutukenshou-kijyun.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-320_gijyutukenshou-kijyun.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-320_gijyutukenshou-kijyun.pdf",
       "removed": 0,
       "title": "技術検証事業者指定基準",
       "type": "文書追加",
@@ -1779,8 +2878,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-330A_kenshuu-kijyun.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-330A_kenshuu-kijyun.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-330A_kenshuu-kijyun.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-330A_kenshuu-kijyun.pdf",
       "removed": 0,
       "title": "研修事業者指定基準",
       "type": "文書追加",
@@ -1803,8 +2902,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-510_hyouka-tejyun.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-510_hyouka-tejyun.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-510_hyouka-tejyun.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-510_hyouka-tejyun.pdf",
       "removed": 0,
       "title": "評価機関指定手順",
       "type": "文書追加",
@@ -1815,8 +2914,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-520_gijyutukeshou-tejyun.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-520_gijyutukeshou-tejyun.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-520_gijyutukeshou-tejyun.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-520_gijyutukeshou-tejyun.pdf",
       "removed": 0,
       "title": "技術検証事業者指定手順",
       "type": "文書追加",
@@ -1827,8 +2926,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-530_kenshuu-tejyun.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-530_kenshuu-tejyun.pdf",
+      "markdown": "archive/scs/regulation/2026-10-28_SCS-530_kenshuu-tejyun.pdf.md",
+      "original": "archive/scs/regulation/2026-10-28_SCS-530_kenshuu-tejyun.pdf",
       "removed": 0,
       "title": "研修事業者指定手順",
       "type": "文書追加",
@@ -1839,8 +2938,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf",
+      "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0911_BriefingMaterials_upd.pdf.md",
+      "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0911_BriefingMaterials_upd.pdf",
       "removed": 0,
       "title": "第3回運営審議委員会(2026年9月11日) 配付資料",
       "type": "文書追加",
@@ -1851,8 +2950,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf",
+      "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0911_ConciseMinutes_upd.pdf.md",
+      "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0911_ConciseMinutes_upd.pdf",
       "removed": 0,
       "title": "第3回運営審議委員会(2026年9月11日) 議事要旨",
       "type": "文書追加",
@@ -1863,8 +2962,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-0708_BriefingMaterials.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-0708_BriefingMaterials.pdf",
+      "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0708_BriefingMaterials.pdf.md",
+      "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0708_BriefingMaterials.pdf",
       "removed": 0,
       "title": "第2回運営審議委員会(2026年7月8日) 配付資料",
       "type": "文書追加",
@@ -1875,8 +2974,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-0708_ConciseMinutes.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-0708_ConciseMinutes.pdf",
+      "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0708_ConciseMinutes.pdf.md",
+      "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0708_ConciseMinutes.pdf",
       "removed": 0,
       "title": "第2回運営審議委員会(2026年7月8日) 議事要旨",
       "type": "文書追加",
@@ -1887,8 +2986,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-0610_BriefingMaterials.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-0610_BriefingMaterials.pdf",
+      "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0610_BriefingMaterials.pdf.md",
+      "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0610_BriefingMaterials.pdf",
       "removed": 0,
       "title": "第1回運営審議委員会(2026年6月10日) 配付資料",
       "type": "文書追加",
@@ -1899,8 +2998,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-0610_ConciseMinutes.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-0610_ConciseMinutes.pdf",
+      "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0610_ConciseMinutes.pdf.md",
+      "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0610_ConciseMinutes.pdf",
       "removed": 0,
       "title": "第1回運営審議委員会(2026年6月10日) 議事要旨",
       "type": "文書追加",
@@ -1911,8 +3010,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/Handouts_02-0820_pt.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/Handouts_02-0820_pt.pdf",
+      "markdown": "archive/scs/advisory-committeess/2026-10-28_Handouts_02-0820_pt.pdf.md",
+      "original": "archive/scs/advisory-committeess/2026-10-28_Handouts_02-0820_pt.pdf",
       "removed": 0,
       "title": "第2回指定委員会(2026年8月20日) 配付資料",
       "type": "文書追加",
@@ -1923,8 +3022,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/Summary_02-0820.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/Summary_02-0820.pdf",
+      "markdown": "archive/scs/advisory-committeess/2026-10-28_Summary_02-0820.pdf.md",
+      "original": "archive/scs/advisory-committeess/2026-10-28_Summary_02-0820.pdf",
       "removed": 0,
       "title": "第2回指定委員会(2026年8月20日) 議事要旨",
       "type": "文書追加",
@@ -1935,8 +3034,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-0727_BriefingMaterials.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-0727_BriefingMaterials.pdf",
+      "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0727_BriefingMaterials.pdf.md",
+      "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0727_BriefingMaterials.pdf",
       "removed": 0,
       "title": "第1回指定委員会(2026年7月27日) 配付資料",
       "type": "文書追加",
@@ -1947,8 +3046,8 @@
       "added": 0,
       "date": "2026-10-28",
       "diff": null,
-      "markdown": "documents/scs/regulation-advisory-committeess/SCS-0727_ConciseMinutes.pdf.md",
-      "original": "documents/scs/regulation-advisory-committeess/SCS-0727_ConciseMinutes.pdf",
+      "markdown": "archive/scs/advisory-committeess/2026-10-28_SCS-0727_ConciseMinutes.pdf.md",
+      "original": "archive/scs/advisory-committeess/2026-10-28_SCS-0727_ConciseMinutes.pdf",
       "removed": 0,
       "title": "第1回指定委員会(2026年7月27日) 議事要旨",
       "type": "文書追加",
@@ -2134,7 +3233,7 @@
         "独立行政法人情報処理推進機構 理事長 齊藤 裕"
       ],
       "first_seen": "2026-10-28",
-      "order": 10,
+      "order": 11,
       "page": "https://www.ipa.go.jp/choutatsu/koubo/2026/koubo20260626.html",
       "scope": "SCS評価制度",
       "selector": "main",
@@ -2154,6 +3253,72 @@
         }
       ],
       "via": "トップページのリンク"
+    },
+    "https://www.ipa.go.jp/security/scs/advisory-committeess.html": {
+      "changelog": [
+        {
+          "date": "2026年11月27日",
+          "text": "制度規程・委員会のページを分割し、再公開しました。"
+        },
+        {
+          "date": "2026年9月18日",
+          "text": "第3回運営審議委員会の配付資料と議事要旨を公開しました。"
+        },
+        {
+          "date": "2026年8月28日",
+          "text": "第2回指定委員会の配付資料と議事要旨を公開しました。"
+        },
+        {
+          "date": "2026年8月7日",
+          "text": "指定委員会の委員名簿を公開しました。 第1回指定委員会の配付資料と議事要旨を公開しました。"
+        },
+        {
+          "date": "2026年7月17日",
+          "text": "第2回運営審議委員会の議事要旨を公開しました。"
+        },
+        {
+          "date": "2026年7月13日",
+          "text": "運営審議委員会の委員名簿を更新しました。 第2回運営審議委員会の配付資料を公開しました。"
+        },
+        {
+          "date": "2026年6月18日",
+          "text": "第1回運営審議委員会の議事要旨を公開しました。"
+        },
+        {
+          "date": "2026年6月12日",
+          "text": "運営審議委員会の委員名簿を公開しました。 第1回運営審議委員会の配付資料を公開しました。"
+        },
+        {
+          "date": "2026年4月21日",
+          "text": "制度規程・委員会のページを公開しました"
+        }
+      ],
+      "dates": [
+        "公開日：2026年4月21日",
+        "最終更新日：2026年11月27日"
+      ],
+      "first_seen": "2026-11-27",
+      "order": 7,
+      "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+      "scope": "SCS評価制度",
+      "selector": "main.container--col2__main",
+      "sha256": "bab94502c1d3d6b0ada2bde6ce07ea75d1174029940559b50679a17448448b89",
+      "status": "active",
+      "title": "委員会",
+      "versions": [
+        {
+          "added": 0,
+          "date": "2026-11-27",
+          "diff": null,
+          "markdown": "documents/scs/advisory-committeess.md",
+          "page": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "removed": 0,
+          "sha256": "bab94502c1d3d6b0ada2bde6ce07ea75d1174029940559b50679a17448448b89",
+          "url": "https://www.ipa.go.jp/security/scs/advisory-committeess.html",
+          "version": "2026-11-27"
+        }
+      ],
+      "via": "トップページ配下"
     },
     "https://www.ipa.go.jp/security/scs/details.html": {
       "changelog": [
@@ -2183,7 +3348,7 @@
         "最終更新日：2026年11月4日"
       ],
       "first_seen": "2026-10-28",
-      "order": 4,
+      "order": 3,
       "page": "https://www.ipa.go.jp/security/scs/details.html",
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
@@ -2245,11 +3410,11 @@
         "最終更新日：2026年10月30日"
       ],
       "first_seen": "2026-10-28",
-      "order": 7,
+      "order": 8,
       "page": "https://www.ipa.go.jp/security/scs/faq.html",
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
-      "sha256": "c79eccc0dd490515964d364fb0ac72d702c1e2030b3dfef484ff5e15567a0ca3",
+      "sha256": "d625854b485301bc51b9ef365acec3db8c7dead0c0c6eaa2939e11428572227d",
       "status": "active",
       "title": "よくある質問",
       "versions": [
@@ -2266,13 +3431,26 @@
         },
         {
           "added": 6,
+          "archived": true,
           "date": "2026-10-30",
           "diff": "history/diffs/2026-10-30/www.ipa.go.jp__security__scs__faq.html.diff",
-          "markdown": "documents/scs/faq.md",
+          "markdown": "archive/scs/2026-10-30_faq.md",
+          "page": "https://www.ipa.go.jp/security/scs/faq.html",
           "removed": 3,
           "sha256": "c79eccc0dd490515964d364fb0ac72d702c1e2030b3dfef484ff5e15567a0ca3",
           "url": "https://www.ipa.go.jp/security/scs/faq.html",
           "version": "2026-10-30"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__faq.html.diff",
+          "markdown": "documents/scs/faq.md",
+          "page": "https://www.ipa.go.jp/security/scs/faq.html",
+          "removed": 1,
+          "sha256": "d625854b485301bc51b9ef365acec3db8c7dead0c0c6eaa2939e11428572227d",
+          "url": "https://www.ipa.go.jp/security/scs/faq.html",
+          "version": "2026-11-27"
         }
       ],
       "via": "トップページ配下"
@@ -2326,19 +3504,32 @@
       "page": "https://www.ipa.go.jp/security/scs/index.html",
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
-      "sha256": "2f5db4beb8677753e2fed6b3f939dcf9c0798a50b12217075dfe6ed546d04fdb",
+      "sha256": "6a9182fcf2db16aefaeb4ccf2348e4009165c0bfc0f7369c6d631083189287d0",
       "status": "active",
       "title": "サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）",
       "versions": [
         {
           "added": 0,
+          "archived": true,
           "date": "2026-10-28",
           "diff": null,
-          "markdown": "documents/scs/index.md",
+          "markdown": "archive/scs/2026-10-28_index.md",
+          "page": "https://www.ipa.go.jp/security/scs/index.html",
           "removed": 0,
           "sha256": "2f5db4beb8677753e2fed6b3f939dcf9c0798a50b12217075dfe6ed546d04fdb",
           "url": "https://www.ipa.go.jp/security/scs/index.html",
           "version": "2026-10-28"
+        },
+        {
+          "added": 12,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__index.html.diff",
+          "markdown": "documents/scs/index.md",
+          "page": "https://www.ipa.go.jp/security/scs/index.html",
+          "removed": 11,
+          "sha256": "6a9182fcf2db16aefaeb4ccf2348e4009165c0bfc0f7369c6d631083189287d0",
+          "url": "https://www.ipa.go.jp/security/scs/index.html",
+          "version": "2026-11-27"
         }
       ],
       "via": "トップページ"
@@ -2393,10 +3584,11 @@
       "first_seen": "2026-10-28",
       "order": 2,
       "page": "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html",
+      "removed": "2026-11-27",
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
       "sha256": "f8c7070b3216b1182b8d0ae5979abecb88e5e25446a3169840d1df12ad493aa3",
-      "status": "active",
+      "status": "unlinked",
       "title": "制度規程・委員会",
       "versions": [
         {
@@ -2413,14 +3605,73 @@
         },
         {
           "added": 7,
+          "archived": true,
           "date": "2026-11-02",
           "diff": "history/diffs/2026-11-02/www.ipa.go.jp__security__scs__regulation-advisory-committeess.html.diff",
-          "markdown": "documents/scs/regulation-advisory-committeess.md",
+          "markdown": "archive/scs/2026-11-02_regulation-advisory-committeess.md",
           "page": "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html",
           "removed": 7,
           "sha256": "f8c7070b3216b1182b8d0ae5979abecb88e5e25446a3169840d1df12ad493aa3",
           "url": "https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html",
           "version": "2026-11-02"
+        }
+      ],
+      "via": "トップページ配下"
+    },
+    "https://www.ipa.go.jp/security/scs/regulation.html": {
+      "changelog": [
+        {
+          "date": "2026年11月27日",
+          "text": "制度規程・委員会のページを分割し、再公開しました。"
+        },
+        {
+          "date": "2026年11月2日",
+          "text": "研修実施基準を一部修正し、再公開しました。"
+        },
+        {
+          "date": "2026年10月15日",
+          "text": "研修事業者指定基準を一部修正し、再公開しました。"
+        },
+        {
+          "date": "2026年9月18日",
+          "text": "研修実施基準を一部修正し、再公開しました。"
+        },
+        {
+          "date": "2026年9月11日",
+          "text": "評価機関指定基準、技術検証事業者指定基準、研修事業者指定基準、研修実施基準、評価機関指定手順、技術検証事業者指定手順、研修事業者指定手順を公開しました。"
+        },
+        {
+          "date": "2026年8月28日",
+          "text": "基本規程、制度運営機関規則、運営審議委員会規則、指定委員会規則、評価機関指定規則、技術検証事業者指定規則、研修事業者指定規則を公開しました。"
+        },
+        {
+          "date": "2026年4月21日",
+          "text": "制度規程・委員会のページを公開しました。"
+        }
+      ],
+      "dates": [
+        "公開日：2026年4月21日",
+        "最終更新日：2026年11月27日"
+      ],
+      "first_seen": "2026-11-27",
+      "order": 6,
+      "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+      "scope": "SCS評価制度",
+      "selector": "main.container--col2__main",
+      "sha256": "b4479595caa16d032a786615c9a7cc57ac246161bd656e9e26a5fb8a4f7bd63a",
+      "status": "active",
+      "title": "制度規程",
+      "versions": [
+        {
+          "added": 0,
+          "date": "2026-11-27",
+          "diff": null,
+          "markdown": "documents/scs/regulation.md",
+          "page": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "removed": 0,
+          "sha256": "b4479595caa16d032a786615c9a7cc57ac246161bd656e9e26a5fb8a4f7bd63a",
+          "url": "https://www.ipa.go.jp/security/scs/regulation.html",
+          "version": "2026-11-27"
         }
       ],
       "via": "トップページ配下"
@@ -2441,7 +3692,7 @@
         "最終更新日：2026年10月28日"
       ],
       "first_seen": "2026-10-28",
-      "order": 6,
+      "order": 5,
       "page": "https://www.ipa.go.jp/security/scs/related-regulations-policies.html",
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
@@ -2546,7 +3797,7 @@
       ],
       "dates": [],
       "first_seen": "2026-10-28",
-      "order": 5,
+      "order": 4,
       "page": "https://www.ipa.go.jp/security/scs/security-experts-organization/index.html",
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
@@ -2595,7 +3846,7 @@
         "最終更新日：2026年10月26日"
       ],
       "first_seen": "2026-10-28",
-      "order": 3,
+      "order": 2,
       "page": "https://www.ipa.go.jp/security/scs/security-experts-organization/setsumeikai.html",
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
@@ -2656,23 +3907,36 @@
         "最終更新日：2026年10月26日"
       ],
       "first_seen": "2026-10-28",
-      "order": 8,
+      "order": 9,
       "page": "https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html",
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",
-      "sha256": "8d86ce728c39643bf2a16eb084d76862bdf1b0f47b17e28b4d214cd19b15a5b9",
+      "sha256": "2ccf42982e6331658a87dc1ec59cea07d2299481d2245bc4ab93216d5d3167e7",
       "status": "active",
       "title": "指定申請について（評価機関・技術検証事業者・研修事業者向け）",
       "versions": [
         {
           "added": 0,
+          "archived": true,
           "date": "2026-10-28",
           "diff": null,
-          "markdown": "documents/scs/security-experts-organization/shiteishinsei.md",
+          "markdown": "archive/scs/security-experts-organization/2026-10-28_shiteishinsei.md",
+          "page": "https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html",
           "removed": 0,
           "sha256": "8d86ce728c39643bf2a16eb084d76862bdf1b0f47b17e28b4d214cd19b15a5b9",
           "url": "https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html",
           "version": "2026-10-28"
+        },
+        {
+          "added": 1,
+          "date": "2026-11-27",
+          "diff": "history/diffs/2026-11-27/www.ipa.go.jp__security__scs__security-experts-organization__shiteishinsei.html.diff",
+          "markdown": "documents/scs/security-experts-organization/shiteishinsei.md",
+          "page": "https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html",
+          "removed": 1,
+          "sha256": "2ccf42982e6331658a87dc1ec59cea07d2299481d2245bc4ab93216d5d3167e7",
+          "url": "https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html",
+          "version": "2026-11-27"
         }
       ],
       "via": "トップページ配下"
@@ -2726,7 +3990,7 @@
         "独立行政法人情報処理推進機構 セキュリティセンター"
       ],
       "first_seen": "2026-10-28",
-      "order": 9,
+      "order": 10,
       "page": "https://www.ipa.go.jp/security/sme/otasuke-scs.html",
       "scope": "SCS評価制度",
       "selector": "main.container--col2__main",

@@ -1,0 +1,88 @@
+--- archive/scs/advisory-committeess/2026-10-28_SCS-0911_BriefingMaterials_upd.pdf.md
++++ documents/scs/advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf.md
+@@ -1,2 +1,2 @@
+-<!-- source: https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_BriefingMaterials_upd.pdf -->
++<!-- source: https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0911_BriefingMaterials_upd.pdf -->
+ 
+@@ -279,14 +279,10 @@
+                                 アセスメントシート     *
+-主な想定読者・
+-
+-
+-
+-
+-                                  登録希望組織
++
++
++
++
++主な想定読者・                           登録希望組織
++               登録希望組織             ★3 確認責任者             評価機関           技術検証事業者              登録希望組織
++
+   使用者
+-
+-
+-
+-
+-               登録希望組織             ★3 確認責任者             評価機関           技術検証事業者              登録希望組織
+                                   ・確認従事者
+@@ -370,7 +366,7 @@
+                                                                                                              受領
++
++
++
++
+      登録希望組織
+-
+-
+-
+-
+                                                                                                              ★4登録
+@@ -391,7 +387,7 @@
+                                                                                    不適合有
++
++
++
++
+      評価機関＊
+-
+-
+-
+-
+                                不備有
+@@ -455,7 +451,7 @@
+                        の意向                                                           準備             の公開          実施
++
++
++
++
+ 登録希望組織
+-
+-
+-
+-
+                       有り                                                                           有り
+@@ -473,7 +469,7 @@
+                                                                                      実施                                     実施                     確認
++
++
++
++
+ 技術検証事業者
+-
+-
+-
+-
+                                                                                               有り                                     有り                  未実施
+@@ -489,7 +485,7 @@
+                                       確認*2                      確認*2
++
++
++
++
+ 評価機関
+-
+-
+-
+-
+                                                  免除不可                    免除不可

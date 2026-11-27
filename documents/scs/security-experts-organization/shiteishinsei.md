@@ -140,7 +140,7 @@ IPAでは、SCS評価制度の運用開始に向けて、評価機関、技術�
 
 - [評価機関・技術検証事業者・研修事業者向け説明会](https://www.ipa.go.jp/security/scs/security-experts-organization/setsumeikai.html)
 
-- [＜参考＞指定に係る制度規程は「制度規程・委員会」のページに掲載しています。](https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html)
+- ＜参考＞指定に係る制度規程は「制度規程・委員会」のページに掲載しています。
 
 ## よくあるご質問
 

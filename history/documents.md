@@ -1,22 +1,24 @@
 # 取得対象のページと文書
 
-最終確認：2026-11-26
+最終確認：2026-11-27
 
 ## ページ
 
 | ページ | 経路 | 最終更新（公式） | 状態 | 最新バージョン | 保存 |
 |---|---|---|---|---|---|
-| [サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）](https://www.ipa.go.jp/security/scs/index.html) | トップページ | 2026年10月28日 | 掲載中 | 2026-10-28 | [md](../documents/scs/index.md) |
+| [サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）](https://www.ipa.go.jp/security/scs/index.html) | トップページ | 2026年10月28日 | 掲載中 | 2026-11-27 | [md](../documents/scs/index.md) |
 | [要求事項・評価基準](https://www.ipa.go.jp/security/scs/requirements-criteria.html) | トップページ配下 | 2026年10月29日 | 掲載中 | 2026-10-30 | [md](../documents/scs/requirements-criteria.md) |
-| [制度規程・委員会](https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html) | トップページ配下 | 2026年11月2日 | 掲載中 | 2026-11-02 | [md](../documents/scs/regulation-advisory-committeess.md) |
 | [評価機関・技術検証事業者・研修事業者 新規申請事業者向け説明会](https://www.ipa.go.jp/security/scs/security-experts-organization/setsumeikai.html) | トップページ配下 | 2026年10月26日 | 掲載中 | 2026-10-28 | [md](../documents/scs/security-experts-organization/setsumeikai.md) |
 | [SCS評価制度の詳細情報](https://www.ipa.go.jp/security/scs/details.html) | トップページ配下 | 2026年11月4日 | 掲載中 | 2026-11-04 | [md](../documents/scs/details.md) |
 | [評価機関・技術検証事業者・研修事業者・SCSセキュリティ専門家](https://www.ipa.go.jp/security/scs/security-experts-organization/index.html) | トップページ配下 | 2026年10月28日 | 掲載中 | 2026-10-28 | [md](../documents/scs/security-experts-organization/index.md) |
 | [関連制度・施策](https://www.ipa.go.jp/security/scs/related-regulations-policies.html) | トップページ配下 | 2026年10月28日 | 掲載中 | 2026-10-28 | [md](../documents/scs/related-regulations-policies.md) |
-| [よくある質問](https://www.ipa.go.jp/security/scs/faq.html) | トップページ配下 | 2026年10月30日 | 掲載中 | 2026-10-30 | [md](../documents/scs/faq.md) |
-| [指定申請について（評価機関・技術検証事業者・研修事業者向け）](https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html) | トップページ配下 | 2026年10月26日 | 掲載中 | 2026-10-28 | [md](../documents/scs/security-experts-organization/shiteishinsei.md) |
+| [制度規程](https://www.ipa.go.jp/security/scs/regulation.html) | トップページ配下 | 2026年11月27日 | 掲載中 | 2026-11-27 | [md](../documents/scs/regulation.md) |
+| [委員会](https://www.ipa.go.jp/security/scs/advisory-committeess.html) | トップページ配下 | 2026年11月27日 | 掲載中 | 2026-11-27 | [md](../documents/scs/advisory-committeess.md) |
+| [よくある質問](https://www.ipa.go.jp/security/scs/faq.html) | トップページ配下 | 2026年10月30日 | 掲載中 | 2026-11-27 | [md](../documents/scs/faq.md) |
+| [指定申請について（評価機関・技術検証事業者・研修事業者向け）](https://www.ipa.go.jp/security/scs/security-experts-organization/shiteishinsei.html) | トップページ配下 | 2026年10月26日 | 掲載中 | 2026-11-27 | [md](../documents/scs/security-experts-organization/shiteishinsei.md) |
 | [サイバーセキュリティお助け隊サービス（新類型）実証事業](https://www.ipa.go.jp/security/sme/otasuke-scs.html) | トップページのリンク | 2026年11月9日 | 掲載中 | 2026-11-09 | [md](../documents/sme/otasuke-scs.md) |
 | [「サイバーセキュリティお助け隊サービス（新類型）実証事業」に係る企画競争](https://www.ipa.go.jp/choutatsu/koubo/2026/koubo20260626.html) | トップページのリンク | 2026年7月21日 | 掲載中 | 2026-10-28 | [md](../documents/choutatsu/koubo/2026/koubo20260626.md) |
+| [制度規程・委員会](https://www.ipa.go.jp/security/scs/regulation-advisory-committeess.html) | トップページ配下 | 2026年11月2日 | 取得対象外 | 2026-11-02 | [md](../archive/scs/2026-11-02_regulation-advisory-committeess.md) |
 
 ## 文書
 
@@ -39,41 +41,46 @@
 |  | [変更箇所（2026年10月28日公開版と2026年3月27日公開版の差異）](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-criteria-comparison.pdf) | PDF | 1,316 KB |  | 2026-10-28 | 2026-10-28 | 2026-10-28 | [原本](../documents/scs/requirements-criteria/SCS-criteria-comparison.pdf) / [md](../documents/scs/requirements-criteria/SCS-criteria-comparison.pdf.md) |
 |  | [要求事項・評価基準、ガイド、解説書等の位置づけ](https://www.ipa.go.jp/security/scs/rcu1hd0000007a2i-att/SCS-documents-overview.pdf) | PDF | 622 KB |  | 2026-10-28 | 2026-10-28 | 2026-10-28 | [原本](../documents/scs/requirements-criteria/SCS-documents-overview.pdf) / [md](../documents/scs/requirements-criteria/SCS-documents-overview.pdf.md) |
 
-### 制度規程・委員会
-
-| 文書番号 | 文書 | 形式 | サイズ | 公式の更新日 | 初回取得 | 最終変更 | 最新バージョン | 保存 |
-|---|---|---|---|---|---|---|---|---|
-| SCS-100 | [基本規程](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-100.pdf) | PDF | 343 KB | 2026年8月28日 | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-100.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-100.pdf.md) |
-| SCS-110 | [制度運営機関規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-110.pdf) | PDF | 316 KB | 2026年8月28日 | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-110.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-110.pdf.md) |
-| SCS-111 | [運営審議委員会規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-111.pdf) | PDF | 284 KB | 2026年8月28日 | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-111.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-111.pdf.md) |
-| SCS-112 | [指定委員会規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-112.pdf) | PDF | 259 KB | 2026年8月28日 | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-112.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-112.pdf.md) |
-| SCS-210 | [評価機関指定規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-210.pdf) | PDF | 237 KB | 2026年8月28日 | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-210.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-210.pdf.md) |
-| SCS-220 | [技術検証事業者指定規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-220.pdf) | PDF | 239 KB | 2026年8月28日 | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-220.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-220.pdf.md) |
-| SCS-230 | [研修事業者指定規則](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-230.pdf) | PDF | 237 KB | 2026年8月28日 | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-230.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-230.pdf.md) |
-| SCS-310 | [評価機関指定基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-310_hyouka-kijyun.pdf) | PDF | 389 KB | 2026年9月11日 | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-310_hyouka-kijyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-310_hyouka-kijyun.pdf.md) |
-| SCS-320 | [技術検証事業者指定基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-320_gijyutukenshou-kijyun.pdf) | PDF | 384 KB | 2026年9月11日 | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-320_gijyutukenshou-kijyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-320_gijyutukenshou-kijyun.pdf.md) |
-| SCS-330A | [研修事業者指定基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330A_kenshuu-kijyun.pdf) | PDF | 387 KB | 2026年10月15日 | 2026-10-28 | 2026-10-28 | 2026-10-15 | [原本](../documents/scs/regulation-advisory-committeess/SCS-330A_kenshuu-kijyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-330A_kenshuu-kijyun.pdf.md) |
-| SCS-330B | [研修実施基準](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-330B_kenshuu-jissi-kijyun.pdf) | PDF | 419 KB | 2026年11月2日 | 2026-10-28 | 2026-11-02 | 2026-11-02 | [原本](../documents/scs/regulation-advisory-committeess/SCS-330B_kenshuu-jissi-kijyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-330B_kenshuu-jissi-kijyun.pdf.md) |
-| SCS-510 | [評価機関指定手順](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-510_hyouka-tejyun.pdf) | PDF | 497 KB | 2026年9月11日 | 2026-10-28 | 2026-10-28 | 2026-09-15 | [原本](../documents/scs/regulation-advisory-committeess/SCS-510_hyouka-tejyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-510_hyouka-tejyun.pdf.md) |
-| SCS-520 | [技術検証事業者指定手順](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-520_gijyutukeshou-tejyun.pdf) | PDF | 345 KB | 2026年9月11日 | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-520_gijyutukeshou-tejyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-520_gijyutukeshou-tejyun.pdf.md) |
-| SCS-530 | [研修事業者指定手順](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-530_kenshuu-tejyun.pdf) | PDF | 513 KB | 2026年9月11日 | 2026-10-28 | 2026-10-28 | 2026-09-15 | [原本](../documents/scs/regulation-advisory-committeess/SCS-530_kenshuu-tejyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-530_kenshuu-tejyun.pdf.md) |
-|  | [第1回指定委員会(2026年7月27日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_ConciseMinutes.pdf) | PDF | 154 KB |  | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-0727_ConciseMinutes.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0727_ConciseMinutes.pdf.md) |
-|  | [第1回指定委員会(2026年7月27日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0727_BriefingMaterials.pdf) | PDF | 2,443 KB |  | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-0727_BriefingMaterials.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0727_BriefingMaterials.pdf.md) |
-|  | [第1回運営審議委員会(2026年6月10日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_ConciseMinutes.pdf) | PDF | 172 KB |  | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-0610_ConciseMinutes.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0610_ConciseMinutes.pdf.md) |
-|  | [第1回運営審議委員会(2026年6月10日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0610_BriefingMaterials.pdf) | PDF | 1,580 KB |  | 2026-10-28 | 2026-10-28 | 2026-09-11 | [原本](../documents/scs/regulation-advisory-committeess/SCS-0610_BriefingMaterials.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0610_BriefingMaterials.pdf.md) |
-|  | [第2回指定委員会(2026年8月20日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Summary_02-0820.pdf) | PDF | 250 KB |  | 2026-10-28 | 2026-10-28 | 2026-09-15 | [原本](../documents/scs/regulation-advisory-committeess/Summary_02-0820.pdf) / [md](../documents/scs/regulation-advisory-committeess/Summary_02-0820.pdf.md) |
-|  | [第2回指定委員会(2026年8月20日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/Handouts_02-0820_pt.pdf) | PDF | 1,533 KB |  | 2026-10-28 | 2026-10-28 | 2026-09-15 | [原本](../documents/scs/regulation-advisory-committeess/Handouts_02-0820_pt.pdf) / [md](../documents/scs/regulation-advisory-committeess/Handouts_02-0820_pt.pdf.md) |
-|  | [第2回運営審議委員会(2026年7月8日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_ConciseMinutes.pdf) | PDF | 166 KB |  | 2026-10-28 | 2026-10-28 | 2026-09-15 | [原本](../documents/scs/regulation-advisory-committeess/SCS-0708_ConciseMinutes.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0708_ConciseMinutes.pdf.md) |
-|  | [第2回運営審議委員会(2026年7月8日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0708_BriefingMaterials.pdf) | PDF | 1,641 KB |  | 2026-10-28 | 2026-10-28 | 2026-09-15 | [原本](../documents/scs/regulation-advisory-committeess/SCS-0708_BriefingMaterials.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0708_BriefingMaterials.pdf.md) |
-|  | [第3回運営審議委員会(2026年9月11日) 議事要旨](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_ConciseMinutes_upd.pdf) | PDF | 212 KB |  | 2026-10-28 | 2026-10-28 | 2026-09-18 | [原本](../documents/scs/regulation-advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf.md) |
-|  | [第3回運営審議委員会(2026年9月11日) 配付資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007af3-att/SCS-0911_BriefingMaterials_upd.pdf) | PDF | 2,444 KB |  | 2026-10-28 | 2026-10-28 | 2026-09-18 | [原本](../documents/scs/regulation-advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf.md) |
-
 ### SCS評価制度の詳細情報
 
 | 文書番号 | 文書 | 形式 | サイズ | 公式の更新日 | 初回取得 | 最終変更 | 最新バージョン | 保存 |
 |---|---|---|---|---|---|---|---|---|
 |  | [SCS評価制度概要説明資料](https://www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/SCS-overview.pdf) | PDF | 2,001 KB |  | 2026-10-28 | 2026-10-28 | 2026-10-28 | [原本](../documents/scs/details/SCS-overview.pdf) / [md](../documents/scs/details/SCS-overview.pdf.md) |
 |  | [チラシ](https://www.ipa.go.jp/security/scs/rcu1hd0000007ajp-att/scs_leaflet.pdf) | PDF | 812 KB |  | 2026-10-28 | 2026-10-28 | 2026-10-28 | [原本](../documents/scs/details/scs_leaflet.pdf) / [md](../documents/scs/details/scs_leaflet.pdf.md) |
+
+### 制度規程
+
+| 文書番号 | 文書 | 形式 | サイズ | 公式の更新日 | 初回取得 | 最終変更 | 最新バージョン | 保存 |
+|---|---|---|---|---|---|---|---|---|
+| SCS-100 | [基本規程](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-100.pdf) | PDF | 343 KB | 2026年8月28日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-100.pdf) / [md](../documents/scs/regulation/SCS-100.pdf.md) |
+| SCS-110 | [制度運営機関規則](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-110.pdf) | PDF | 316 KB | 2026年8月28日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-110.pdf) / [md](../documents/scs/regulation/SCS-110.pdf.md) |
+| SCS-111 | [運営審議委員会規則](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-111.pdf) | PDF | 284 KB | 2026年8月28日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-111.pdf) / [md](../documents/scs/regulation/SCS-111.pdf.md) |
+| SCS-112 | [指定委員会規則](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-112.pdf) | PDF | 259 KB | 2026年8月28日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-112.pdf) / [md](../documents/scs/regulation/SCS-112.pdf.md) |
+| SCS-210 | [評価機関指定規則](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-210.pdf) | PDF | 237 KB | 2026年8月28日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-210.pdf) / [md](../documents/scs/regulation/SCS-210.pdf.md) |
+| SCS-220 | [技術検証事業者指定規則](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-220.pdf) | PDF | 239 KB | 2026年8月28日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-220.pdf) / [md](../documents/scs/regulation/SCS-220.pdf.md) |
+| SCS-230 | [研修事業者指定規則](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-230.pdf) | PDF | 237 KB | 2026年8月28日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-230.pdf) / [md](../documents/scs/regulation/SCS-230.pdf.md) |
+| SCS-310 | [評価機関指定基準](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-310_hyouka-kijyun.pdf) | PDF | 389 KB | 2026年9月11日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-310_hyouka-kijyun.pdf) / [md](../documents/scs/regulation/SCS-310_hyouka-kijyun.pdf.md) |
+| SCS-320 | [技術検証事業者指定基準](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-320_gijyutukenshou-kijyun.pdf) | PDF | 384 KB | 2026年9月11日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-320_gijyutukenshou-kijyun.pdf) / [md](../documents/scs/regulation/SCS-320_gijyutukenshou-kijyun.pdf.md) |
+| SCS-330A | [研修事業者指定基準](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-330A_kenshuu-kijyun.pdf) | PDF | 387 KB | 2026年10月15日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-330A_kenshuu-kijyun.pdf) / [md](../documents/scs/regulation/SCS-330A_kenshuu-kijyun.pdf.md) |
+| SCS-330B | [研修実施基準](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-330B_kenshuu-jissi-kijyun.pdf) | PDF | 419 KB | 2026年11月2日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-330B_kenshuu-jissi-kijyun.pdf) / [md](../documents/scs/regulation/SCS-330B_kenshuu-jissi-kijyun.pdf.md) |
+| SCS-510 | [評価機関指定手順](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-510_hyouka-tejyun.pdf) | PDF | 333 KB | 2026年9月11日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-510_hyouka-tejyun.pdf) / [md](../documents/scs/regulation/SCS-510_hyouka-tejyun.pdf.md) |
+| SCS-520 | [技術検証事業者指定手順](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-520_gijyutukeshou-tejyun.pdf) | PDF | 345 KB | 2026年9月11日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-520_gijyutukeshou-tejyun.pdf) / [md](../documents/scs/regulation/SCS-520_gijyutukeshou-tejyun.pdf.md) |
+| SCS-530 | [研修事業者指定手順](https://www.ipa.go.jp/security/scs/rqr7mi000000ggsi-att/SCS-530_kenshuu-tejyun.pdf) | PDF | 369 KB | 2026年9月11日 | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/regulation/SCS-530_kenshuu-tejyun.pdf) / [md](../documents/scs/regulation/SCS-530_kenshuu-tejyun.pdf.md) |
+
+### 委員会
+
+| 文書番号 | 文書 | 形式 | サイズ | 公式の更新日 | 初回取得 | 最終変更 | 最新バージョン | 保存 |
+|---|---|---|---|---|---|---|---|---|
+|  | [第1回指定委員会(2026年7月27日) 議事要旨](https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0727_ConciseMinutes_upd.pdf) | PDF | 165 KB |  | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/advisory-committeess/SCS-0727_ConciseMinutes_upd.pdf) / [md](../documents/scs/advisory-committeess/SCS-0727_ConciseMinutes_upd.pdf.md) |
+|  | [第1回指定委員会(2026年7月27日) 配付資料](https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0727_BriefingMaterials_upd.pdf) | PDF | 2,172 KB |  | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/advisory-committeess/SCS-0727_BriefingMaterials_upd.pdf) / [md](../documents/scs/advisory-committeess/SCS-0727_BriefingMaterials_upd.pdf.md) |
+|  | [第1回運営審議委員会(2026年6月10日) 議事要旨](https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0610_ConciseMinutes_upd.pdf) | PDF | 173 KB |  | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/advisory-committeess/SCS-0610_ConciseMinutes_upd.pdf) / [md](../documents/scs/advisory-committeess/SCS-0610_ConciseMinutes_upd.pdf.md) |
+|  | [第1回運営審議委員会(2026年6月10日) 配付資料](https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0610_BriefingMaterials.pdf) | PDF | 1,629 KB |  | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/advisory-committeess/SCS-0610_BriefingMaterials.pdf) / [md](../documents/scs/advisory-committeess/SCS-0610_BriefingMaterials.pdf.md) |
+|  | [第2回指定委員会(2026年8月20日) 議事要旨](https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/Summary_02-0820.pdf) | PDF | 250 KB |  | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/advisory-committeess/Summary_02-0820.pdf) / [md](../documents/scs/advisory-committeess/Summary_02-0820.pdf.md) |
+|  | [第2回指定委員会(2026年8月20日) 配付資料](https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/Handouts_02-0820_pt.pdf) | PDF | 1,533 KB |  | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/advisory-committeess/Handouts_02-0820_pt.pdf) / [md](../documents/scs/advisory-committeess/Handouts_02-0820_pt.pdf.md) |
+|  | [第2回運営審議委員会(2026年7月8日) 議事要旨](https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0708_ConciseMinutes.pdf) | PDF | 166 KB |  | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/advisory-committeess/SCS-0708_ConciseMinutes.pdf) / [md](../documents/scs/advisory-committeess/SCS-0708_ConciseMinutes.pdf.md) |
+|  | [第2回運営審議委員会(2026年7月8日) 配付資料](https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0708_BriefingMaterials.pdf) | PDF | 1,641 KB |  | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/advisory-committeess/SCS-0708_BriefingMaterials.pdf) / [md](../documents/scs/advisory-committeess/SCS-0708_BriefingMaterials.pdf.md) |
+|  | [第3回運営審議委員会(2026年9月11日) 議事要旨](https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0911_ConciseMinutes_upd.pdf) | PDF | 212 KB |  | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf) / [md](../documents/scs/advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf.md) |
+|  | [第3回運営審議委員会(2026年9月11日) 配付資料](https://www.ipa.go.jp/security/scs/rqr7mi000000evd2-att/SCS-0911_BriefingMaterials_upd.pdf) | PDF | 2,444 KB |  | 2026-11-27 | 2026-11-27 | 2026-11-27 | [原本](../documents/scs/advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf) / [md](../documents/scs/advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf.md) |
 
 ### 指定申請について（評価機関・技術検証事業者・研修事業者向け）
 
@@ -103,6 +110,34 @@
 
 ### ページの過去の版
 
+<details><summary>サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） |  | +12 / -11 | [md](../documents/scs/index.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__index.html.diff) |
+| 2026-10-28 | archive |  | — | [md](../archive/scs/2026-10-28_index.md) | — |
+
+</details>
+
+<details><summary>よくある質問（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） |  | +1 / -1 | [md](../documents/scs/faq.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__faq.html.diff) |
+| 2026-10-30 | archive |  | +6 / -3 | [md](../archive/scs/2026-10-30_faq.md) | [diff](diffs/2026-10-30/www.ipa.go.jp__security__scs__faq.html.diff) |
+| 2026-10-28 | archive |  | — | [md](../archive/scs/2026-10-28_faq.md) | — |
+
+</details>
+
+<details><summary>指定申請について（評価機関・技術検証事業者・研修事業者向け）（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） |  | +1 / -1 | [md](../documents/scs/security-experts-organization/shiteishinsei.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__security-experts-organization__shiteishinsei.html.diff) |
+| 2026-10-28 | archive |  | — | [md](../archive/scs/security-experts-organization/2026-10-28_shiteishinsei.md) | — |
+
+</details>
+
 <details><summary>サイバーセキュリティお助け隊サービス（新類型）実証事業（掲載中）</summary>
 
 | バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
@@ -122,11 +157,11 @@
 
 </details>
 
-<details><summary>制度規程・委員会（掲載中）</summary>
+<details><summary>制度規程・委員会（取得対象外）</summary>
 
 | バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
 |---|---|---|---|---|---|
-| 2026-11-02 | documents（最新） |  | +7 / -7 | [md](../documents/scs/regulation-advisory-committeess.md) | [diff](diffs/2026-11-02/www.ipa.go.jp__security__scs__regulation-advisory-committeess.html.diff) |
+| 2026-11-02 | archive |  | +7 / -7 | [md](../archive/scs/2026-11-02_regulation-advisory-committeess.md) | [diff](diffs/2026-11-02/www.ipa.go.jp__security__scs__regulation-advisory-committeess.html.diff) |
 | 2026-10-28 | archive |  | — | [md](../archive/scs/2026-10-28_regulation-advisory-committeess.md) | — |
 
 </details>
@@ -141,23 +176,222 @@
 
 </details>
 
-<details><summary>よくある質問（掲載中）</summary>
+### 文書の過去の版
+
+<details><summary>基本規程（掲載中）</summary>
 
 | バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
 |---|---|---|---|---|---|
-| 2026-10-30 | documents（最新） |  | +6 / -3 | [md](../documents/scs/faq.md) | [diff](diffs/2026-10-30/www.ipa.go.jp__security__scs__faq.html.diff) |
-| 2026-10-28 | archive |  | — | [md](../archive/scs/2026-10-28_faq.md) | — |
+| 2026-11-27 | documents（最新） | 343 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-100.pdf) / [md](../documents/scs/regulation/SCS-100.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-100.pdf.diff) |
+| 2026-09-11 | archive | 343 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-100.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-100.pdf.md) | — |
 
 </details>
 
-### 文書の過去の版
+<details><summary>制度運営機関規則（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 316 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-110.pdf) / [md](../documents/scs/regulation/SCS-110.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-110.pdf.diff) |
+| 2026-09-11 | archive | 316 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-110.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-110.pdf.md) | — |
+
+</details>
+
+<details><summary>運営審議委員会規則（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 284 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-111.pdf) / [md](../documents/scs/regulation/SCS-111.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-111.pdf.diff) |
+| 2026-09-11 | archive | 284 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-111.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-111.pdf.md) | — |
+
+</details>
+
+<details><summary>指定委員会規則（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 259 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-112.pdf) / [md](../documents/scs/regulation/SCS-112.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-112.pdf.diff) |
+| 2026-09-11 | archive | 259 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-112.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-112.pdf.md) | — |
+
+</details>
+
+<details><summary>評価機関指定規則（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 237 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-210.pdf) / [md](../documents/scs/regulation/SCS-210.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-210.pdf.diff) |
+| 2026-09-11 | archive | 237 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-210.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-210.pdf.md) | — |
+
+</details>
+
+<details><summary>技術検証事業者指定規則（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 239 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-220.pdf) / [md](../documents/scs/regulation/SCS-220.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-220.pdf.diff) |
+| 2026-09-11 | archive | 239 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-220.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-220.pdf.md) | — |
+
+</details>
+
+<details><summary>研修事業者指定規則（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 237 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-230.pdf) / [md](../documents/scs/regulation/SCS-230.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-230.pdf.diff) |
+| 2026-09-11 | archive | 237 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-230.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-230.pdf.md) | — |
+
+</details>
+
+<details><summary>評価機関指定基準（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 389 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-310_hyouka-kijyun.pdf) / [md](../documents/scs/regulation/SCS-310_hyouka-kijyun.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-310_hyouka-kijyun.pdf.diff) |
+| 2026-09-11 | archive | 389 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-310_hyouka-kijyun.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-310_hyouka-kijyun.pdf.md) | — |
+
+</details>
+
+<details><summary>技術検証事業者指定基準（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 384 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-320_gijyutukenshou-kijyun.pdf) / [md](../documents/scs/regulation/SCS-320_gijyutukenshou-kijyun.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-320_gijyutukenshou-kijyun.pdf.diff) |
+| 2026-09-11 | archive | 384 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-320_gijyutukenshou-kijyun.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-320_gijyutukenshou-kijyun.pdf.md) | — |
+
+</details>
+
+<details><summary>研修事業者指定基準（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 387 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-330A_kenshuu-kijyun.pdf) / [md](../documents/scs/regulation/SCS-330A_kenshuu-kijyun.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-330A_kenshuu-kijyun.pdf.diff) |
+| 2026-10-15 | archive | 387 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-330A_kenshuu-kijyun.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-330A_kenshuu-kijyun.pdf.md) | — |
+
+</details>
 
 <details><summary>研修実施基準（掲載中）</summary>
 
 | バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
 |---|---|---|---|---|---|
-| 2026-11-02 | documents（最新） | 419 KB | +3 / -2 | [原本](../documents/scs/regulation-advisory-committeess/SCS-330B_kenshuu-jissi-kijyun.pdf) / [md](../documents/scs/regulation-advisory-committeess/SCS-330B_kenshuu-jissi-kijyun.pdf.md) | [diff](diffs/2026-11-02/www.ipa.go.jp__security__scs__rcu1hd0000007af3-att__SCS-330B_kenshuu-jissi-kijyun.pdf.diff) |
+| 2026-11-27 | documents（最新） | 419 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-330B_kenshuu-jissi-kijyun.pdf) / [md](../documents/scs/regulation/SCS-330B_kenshuu-jissi-kijyun.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-330B_kenshuu-jissi-kijyun.pdf.diff) |
+| 2026-11-02 | archive | 419 KB | +3 / -2 | [原本](../archive/scs/regulation/2026-11-02_SCS-330B_kenshuu-jissi-kijyun.pdf) / [md](../archive/scs/regulation/2026-11-02_SCS-330B_kenshuu-jissi-kijyun.pdf.md) | [diff](diffs/2026-11-02/www.ipa.go.jp__security__scs__rcu1hd0000007af3-att__SCS-330B_kenshuu-jissi-kijyun.pdf.diff) |
 | 2026-09-18 | archive | 473 KB | — | [原本](../archive/scs/regulation-advisory-committeess/2026-10-28_SCS-330B_kenshuu-jissi-kijyun.pdf) / [md](../archive/scs/regulation-advisory-committeess/2026-10-28_SCS-330B_kenshuu-jissi-kijyun.pdf.md) | — |
+
+</details>
+
+<details><summary>評価機関指定手順（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 333 KB | +3 / -3 | [原本](../documents/scs/regulation/SCS-510_hyouka-tejyun.pdf) / [md](../documents/scs/regulation/SCS-510_hyouka-tejyun.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-510_hyouka-tejyun.pdf.diff) |
+| 2026-09-15 | archive | 497 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-510_hyouka-tejyun.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-510_hyouka-tejyun.pdf.md) | — |
+
+</details>
+
+<details><summary>技術検証事業者指定手順（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 345 KB | +1 / -1 | [原本](../documents/scs/regulation/SCS-520_gijyutukeshou-tejyun.pdf) / [md](../documents/scs/regulation/SCS-520_gijyutukeshou-tejyun.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-520_gijyutukeshou-tejyun.pdf.diff) |
+| 2026-09-11 | archive | 345 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-520_gijyutukeshou-tejyun.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-520_gijyutukeshou-tejyun.pdf.md) | — |
+
+</details>
+
+<details><summary>研修事業者指定手順（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 369 KB | +3 / -3 | [原本](../documents/scs/regulation/SCS-530_kenshuu-tejyun.pdf) / [md](../documents/scs/regulation/SCS-530_kenshuu-tejyun.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000ggsi-att__SCS-530_kenshuu-tejyun.pdf.diff) |
+| 2026-09-15 | archive | 513 KB | — | [原本](../archive/scs/regulation/2026-10-28_SCS-530_kenshuu-tejyun.pdf) / [md](../archive/scs/regulation/2026-10-28_SCS-530_kenshuu-tejyun.pdf.md) | — |
+
+</details>
+
+<details><summary>第3回運営審議委員会(2026年9月11日) 配付資料（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 2,444 KB | +28 / -32 | [原本](../documents/scs/advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf) / [md](../documents/scs/advisory-committeess/SCS-0911_BriefingMaterials_upd.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0911_BriefingMaterials_upd.pdf.diff) |
+| 2026-09-18 | archive | 2,444 KB | — | [原本](../archive/scs/advisory-committeess/2026-10-28_SCS-0911_BriefingMaterials_upd.pdf) / [md](../archive/scs/advisory-committeess/2026-10-28_SCS-0911_BriefingMaterials_upd.pdf.md) | — |
+
+</details>
+
+<details><summary>第3回運営審議委員会(2026年9月11日) 議事要旨（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 212 KB | +1 / -1 | [原本](../documents/scs/advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf) / [md](../documents/scs/advisory-committeess/SCS-0911_ConciseMinutes_upd.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0911_ConciseMinutes_upd.pdf.diff) |
+| 2026-09-18 | archive | 212 KB | — | [原本](../archive/scs/advisory-committeess/2026-10-28_SCS-0911_ConciseMinutes_upd.pdf) / [md](../archive/scs/advisory-committeess/2026-10-28_SCS-0911_ConciseMinutes_upd.pdf.md) | — |
+
+</details>
+
+<details><summary>第2回運営審議委員会(2026年7月8日) 配付資料（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 1,641 KB | +1 / -1 | [原本](../documents/scs/advisory-committeess/SCS-0708_BriefingMaterials.pdf) / [md](../documents/scs/advisory-committeess/SCS-0708_BriefingMaterials.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0708_BriefingMaterials.pdf.diff) |
+| 2026-09-15 | archive | 1,641 KB | — | [原本](../archive/scs/advisory-committeess/2026-10-28_SCS-0708_BriefingMaterials.pdf) / [md](../archive/scs/advisory-committeess/2026-10-28_SCS-0708_BriefingMaterials.pdf.md) | — |
+
+</details>
+
+<details><summary>第2回運営審議委員会(2026年7月8日) 議事要旨（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 166 KB | +1 / -1 | [原本](../documents/scs/advisory-committeess/SCS-0708_ConciseMinutes.pdf) / [md](../documents/scs/advisory-committeess/SCS-0708_ConciseMinutes.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0708_ConciseMinutes.pdf.diff) |
+| 2026-09-15 | archive | 166 KB | — | [原本](../archive/scs/advisory-committeess/2026-10-28_SCS-0708_ConciseMinutes.pdf) / [md](../archive/scs/advisory-committeess/2026-10-28_SCS-0708_ConciseMinutes.pdf.md) | — |
+
+</details>
+
+<details><summary>第1回運営審議委員会(2026年6月10日) 配付資料（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 1,629 KB | +1 / -1 | [原本](../documents/scs/advisory-committeess/SCS-0610_BriefingMaterials.pdf) / [md](../documents/scs/advisory-committeess/SCS-0610_BriefingMaterials.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0610_BriefingMaterials.pdf.diff) |
+| 2026-09-11 | archive | 1,580 KB | — | [原本](../archive/scs/advisory-committeess/2026-10-28_SCS-0610_BriefingMaterials.pdf) / [md](../archive/scs/advisory-committeess/2026-10-28_SCS-0610_BriefingMaterials.pdf.md) | — |
+
+</details>
+
+<details><summary>第1回運営審議委員会(2026年6月10日) 議事要旨（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 173 KB | +1 / -1 | [原本](../documents/scs/advisory-committeess/SCS-0610_ConciseMinutes_upd.pdf) / [md](../documents/scs/advisory-committeess/SCS-0610_ConciseMinutes_upd.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0610_ConciseMinutes_upd.pdf.diff) |
+| 2026-09-11 | archive | 172 KB | — | [原本](../archive/scs/advisory-committeess/2026-10-28_SCS-0610_ConciseMinutes.pdf) / [md](../archive/scs/advisory-committeess/2026-10-28_SCS-0610_ConciseMinutes.pdf.md) | — |
+
+</details>
+
+<details><summary>第2回指定委員会(2026年8月20日) 配付資料（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 1,533 KB | +1 / -1 | [原本](../documents/scs/advisory-committeess/Handouts_02-0820_pt.pdf) / [md](../documents/scs/advisory-committeess/Handouts_02-0820_pt.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__Handouts_02-0820_pt.pdf.diff) |
+| 2026-09-15 | archive | 1,533 KB | — | [原本](../archive/scs/advisory-committeess/2026-10-28_Handouts_02-0820_pt.pdf) / [md](../archive/scs/advisory-committeess/2026-10-28_Handouts_02-0820_pt.pdf.md) | — |
+
+</details>
+
+<details><summary>第2回指定委員会(2026年8月20日) 議事要旨（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 250 KB | +1 / -1 | [原本](../documents/scs/advisory-committeess/Summary_02-0820.pdf) / [md](../documents/scs/advisory-committeess/Summary_02-0820.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__Summary_02-0820.pdf.diff) |
+| 2026-09-15 | archive | 250 KB | — | [原本](../archive/scs/advisory-committeess/2026-10-28_Summary_02-0820.pdf) / [md](../archive/scs/advisory-committeess/2026-10-28_Summary_02-0820.pdf.md) | — |
+
+</details>
+
+<details><summary>第1回指定委員会(2026年7月27日) 配付資料（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 2,172 KB | +4 / -2 | [原本](../documents/scs/advisory-committeess/SCS-0727_BriefingMaterials_upd.pdf) / [md](../documents/scs/advisory-committeess/SCS-0727_BriefingMaterials_upd.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0727_BriefingMaterials_upd.pdf.diff) |
+| 2026-09-11 | archive | 2,443 KB | — | [原本](../archive/scs/advisory-committeess/2026-10-28_SCS-0727_BriefingMaterials.pdf) / [md](../archive/scs/advisory-committeess/2026-10-28_SCS-0727_BriefingMaterials.pdf.md) | — |
+
+</details>
+
+<details><summary>第1回指定委員会(2026年7月27日) 議事要旨（掲載中）</summary>
+
+| バージョン | 保存先 | サイズ | 変更行 | 保存 | 差分 |
+|---|---|---|---|---|---|
+| 2026-11-27 | documents（最新） | 165 KB | +5 / -5 | [原本](../documents/scs/advisory-committeess/SCS-0727_ConciseMinutes_upd.pdf) / [md](../documents/scs/advisory-committeess/SCS-0727_ConciseMinutes_upd.pdf.md) | [diff](diffs/2026-11-27/www.ipa.go.jp__security__scs__rqr7mi000000evd2-att__SCS-0727_ConciseMinutes_upd.pdf.diff) |
+| 2026-09-11 | archive | 154 KB | — | [原本](../archive/scs/advisory-committeess/2026-10-28_SCS-0727_ConciseMinutes.pdf) / [md](../archive/scs/advisory-committeess/2026-10-28_SCS-0727_ConciseMinutes.pdf.md) | — |
 
 </details>
 
